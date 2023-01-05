@@ -1,0 +1,215 @@
+﻿Câu 1.	Kỹ thuật sàng tuyển là một kỹ thuật:
+Chẩn đoán sơ bộ bệnh
+Chẩn đoán phân biệt bệnh
+* Phát hiện bệnh ở giai đoạn sớm
+Chẩn đoán mức độ bệnh
+
+Câu 2.  Độ nhạy được định nghĩa là: 
+*Khả năng một xét nghiệm phát hiện đúng những người đã mắc bệnh
+Khả năng một xét nghiệm xác định đúng những người không mắc bệnh
+Khả năng một xét nghiệm phát hiện đúng những người có yếu tố phơi nhiễm
+Khả năng một xét nghiệm xác định đúng những người không có yếu tố phơi nhiễm
+
+Câu 3.  Kỹ thuật sàng tuyển nhằm mục đích: 
+*Phát hiện sớm một bệnh chưa có biểu hiện rõ về lâm sàng bằng một xét nghiệm hay thăm khám
+Phân loại ra những người có yếu tố phơi nhiễm và không phơi nhiễm
+Phát hiện những người có yếu tố phơi nhiễm trước một bệnh
+Phân loại rõ ràng những người hoàn toàn khỏe mạnh với những người lành mang yếu tố gây bệnh
+
+Câu 4.  Độ tin cậy cao trong một xét nghiệm có đặc điểm: 
+*Cho kết quả như nhau khi tiến hành lặp lại xét nghiệm ở cùng một cá thể trong những điều kiện giống nhau
+Cho kết quả như nhau khi tiến hành lặp lại xét nghiệm ở cùng một cá thể trong những điều kiện khác nhau
+Cho kết quả như nhau khi tiến hành lặp lại xét nghiệm ở cùng một bệnh trong những điều kiện giống nhau
+Cho kết quả như nhau khi tiến hành lặp lại xét nghiệm ở cùng một bệnh trong những điều kiện khác nhau
+
+Câu 5.  Yếu tố ảnh hưởng đến tính hằng định của kết quả xét nghiệm:
+*Sự biến thiên do phương pháp xét nghiệm và sự biến thiên do người xét nghiệm
+Sự biến thiên do người xét nghiệm và tỷ lệ hiện mắc điểm
+Sự biến thiên do phương pháp xét nghiệm, biến thiên do người xét nghiệm và tỷ lệ hiện mắc
+Sự biến thiên của tỷ lệ hiện mắc theo thời gian và phương tiện thực hiện xét nghiệm
+
+Câu 6.  Quần thể sàng tuyển có đặc điểm: 
+*Người khỏe mạnh và người bị bệnh chưa được chẩn đoán
+Người có yếu tố phơi nhiễm và không phơi nhiễm
+Người bị bệnh có yếu tố phơi nhiễm và không bị bệnh
+Người khỏe mạnh và người bệnh đã khỏi bệnh
+
+Câu 7.  Người có kết quả âm tính khi: 
+Những người được coi là bị bệnh hay có nguy cơ cao mắc bệnh trong tương lai
+*Người không bị bệnh trong nghiên cứu
+Người bệnh đã khỏi bệnh trong nghiên cứu
+Người có yếu tố phơi nhiễm nhưng không bị bệnh trong quá trình nghiên cứu
+
+Câu 8.  Có bao nhiêu yếu tố ảnh hưởng đến tính hằng định của kết quả xét nghiệm là: 
+1
+*2
+3
+4
+
+Câu 9.  Người có kết quả dương tính khi: 
+*Những người được coi là bị bệnh hay có nguy cơ cao mắc bệnh trong tương lai
+Người bệnh đã khỏi bệnh trong nghiên cứu
+Người có yếu tố phơi nhiễm nhưng không bị bệnh trong quá trình nghiên cứu
+Người có bệnh hay có nguy cơ cần can thiệp điều trị
+
+Câu 10.  Mục tiêu của sàng tuyển: 
+Xác định tần số hay lịch sử tự nhiên của bệnh
+Phát hiện bệnh sớm để cho việc chỉ định điều trị bệnh nhân
+Phòng lây bệnh cho cộng đồng
+*Tất cả đều đúng
+
+Câu 11.  Khả năng một xét nghiệm xác định đúng những người không mắc bệnh được gọi là: 
+Độ nhạy
+*Độ đặc hiệu
+Độ tin cậy
+Độ chính xác
+
+Câu 12.  Cách xác định độ nhạy và độ đặc hiệu: 
+*So sánh kết quả xét nghiệm sàng tuyển và kết quả của một phương pháp chẩn đoán xác định
+So sánh kết quả sàng lọc của các yếu tố phơi nhiễm và bệnh
+So sánh kết quả xét nghiệm và kết quả của quá trình theo dõi lâm sàng
+Tất cả đều đúng
+
+Câu 13.  Một xét nghiệm sàng tuyển có độ nhạy cao thì độ đặc hiệu: 
+*Thấp
+Cao
+Không phụ thuộc 
+Không thay đổi
+
+Câu 14.  Công thức tính độ nhạy (Sen): 
+*Sen = a/(a+c)
+Sen = d/(d+b)
+Sen = a/(a+b)
+Sen = d/(c+d)
+
+Câu 15.  Công thức tính độ đặc hiệu (Spe): 
+Spe = a/(a+c)
+*Spe = d/(d+b)
+Spe = a/(a+b)
+Spe = d/(c+d)
+
+Câu 16.  Giá trị dự đoán dương tính PV+ là: 
+PV+ = a/(a+c)
+PV+ = d/(d+b)
+*PV+ = a/(a+b)
+PV+ = d/(c+d)
+
+Câu 17. 	Dương tính giả là:
+* Các cá thể không mắc bệnh nhưng sàng tuyển cho kết quả dương tính
+Các cá thể không mắc bệnh nhưng sàng tuyển cho kết quả âm tính
+Các cá thể có bệnh nhưng sàng tuyển cho kết quả âm tính
+Các cá thể có bệnh nhưng sàng tuyển cho kết quả dương tính
+
+Câu 18.  Giá trị dự đoán âm tính PV- là: 
+PV- = a/(a+c)
+PV- = d/(d+b)
+PV- = a/(a+b)
+*PV- = d/(c+d)
+
+Câu 19.  Các yếu tố ảnh hưởng đến giá trị của một xét nghiệm là: 
+Đặc tính của xét nghiệm
+Yếu tố của vật chủ như giai đoạn bệnh
+Sự có mặt đồng thời của các bệnh khác
+*Tất cả đều đúng
+
+Câu 20. 	Kỹ thuật sàng tuyển được dùng để phát hiện sớm các bệnh:
+Bệnh trầm trọng không thể chữa khỏi được
+* Có khả năng phát hiện sớm ở giai đoạn tiềm tàng
+Bệnh hiếm gặp
+Bệnh nhẹ dễ can thiệp điều trị
+
+Câu 21. 	Âm tính giả là:
+Các cá thể không mắc bệnh nhưng sàng tuyển cho kết quả dương tính
+Các cá thể không mắc bệnh nhưng sàng tuyển cho kết quả âm tính
+* Các cá thể có mắc bệnh nhưng sàng tuyển cho kết quả âm tính
+Các cá thể có bệnh nhưng sàng tuyển cho kết qủa dương tính
+
+Câu 22. 	Giá trị tiên đoán của kỹ thuật sàng tuyển phụ thuộc vào
+Độ nhạy
+Độ đặc hiệu
+Mức độ phổ biến của bệnh
+* Cả 3 khả năng trên
+
+Câu 23. 	Dùng biện pháp có độ nhạy cao khi tiến hành sàng tuyển đối với bệnh có đặc điểm sau:
+* Bệnh rất nguy hiểm, nhưng phát hiện sớm có thể chữa khỏi
+Dương tính giả có ảnh hưởng nhiều đến tâm lý người bệnh
+Âm tính giả làm thay đổi các hành vi liên quan tới giáo dục dự phòng
+Quá trình điều trị không gây hậu quả nghiêm trọng cho những trường hợp dương tính giả
+
+Câu 24.  Xác định độ nhạy và đặc hiệu của một xét nghiệm cần:
+*Chẩn đoán xác định tất cả những người được xét nghiệm, không quan tâm tới kết quả xét nghiệm âm tính hay dương tính bằng các kỹ thuật chẩn đoán xác định và độc lập
+Chẩn đoán xác định tất cả những người được xét nghiệm, kết hợp với kết quả xét nghiệm dương tính bằng các kỹ thuật chẩn đoán xác định và độc lập
+Chẩn đoán xác định tất cả những người có yếu tố phơi nhiễm, không quan tâm tới kết quả xét nghiệm âm tính hay dương tính bằng các kỹ thuật chẩn đoán xác định và độc lập
+Chẩn đoán xác định tất cả những người có yếu tố phơi nhiễm, kết hợp với kết quả xét nghiệm âm tính bằng các tiêu chuẩn chẩn đoán độc lập
+
+Câu 25.  Giá trị dự đoán của một xét nghiệm sàng tuyển có đặc điểm, ngoại trừ:
+Phụ thuộc vào tỉ lệ hiện mắc của bệnh 
+*Phụ thuộc vào tỉ lệ tấn công của bệnh
+Phụ thuộc độ nhạy của xét nghiệm
+Phụ thuộc độ đặc hiệu của xét nghiệm
+
+Câu 26.  Sự biến thiên do phương pháp xét nghiệm phụ thuộc vào: 
+*Tính bền vững của hóa chất và sự dao động của những chất được xét nghiệm
+Sự khác nhau giữa những người xét nghiệm và do sự biến thiên ở chính một người xét nghiệm khi đọc kết quả
+Tính bền vững của hóa chất và quá trình thực hiện của người xét nghiệm
+Sự khác nhau giữa những người xét nghiệm và tính bền vững của hóa chất
+
+Câu 27.  Sự biến thiên do người xét nghiệm phụ thuộc vào: 
+Tính bền vững của hóa chất và sự dao động của những chất được xét nghiệm
+*Sự khác nhau giữa những người xét nghiệm và do sự biến thiên ở chính một người xét nghiệm khi đọc kết quả
+Tính bền vững của hóa chất và quá trình thực hiện của người xét nghiệm
+Sự khác nhau giữa những người xét nghiệm và sự dao động của những chất xét nghiệm
+
+Câu 28.  Tỉ lệ hiện mắc trong kỹ thuật sàng tuyển có đặc điểm: 
+Tỷ lệ hiện mắc càng cao giá trị dự đoán dương tính của xét nghiệm càng thấp
+*Tỷ lệ hiện mắc càng thấp, ngay cả khi một xét nghiệm có tính giá trị cao vẫn mang lại giá trị dự đoán thấp
+Tỷ lệ hiện mắc càng thấp, cần phụ thuộc vào các kĩ thuật và tiêu chuẩn chẩn đoán khác để dự đoán
+Tỷ lệ hiện mắc càng thấp giá trị dự đoán dương tính của xét nghiệm càng cao
+
+Câu 29.  Để phân tích giải thích kết quả xét nghiệm và tư vấn cho bệnh nhân, người thầy thuốc cần quan tâm đến: 
+*Giá trị dự đoán dương tính
+Giá trị dự đoán âm tính
+Độ nhạy và đặc hiệu của xét nghiệm
+Tỉ lệ hiện mắc điểm
+
+Câu 30.  Một bệnh có tỷ lệ hiện mắc là 2%, độ nhạy của xét nghiệm sàng tuyển là 90%, độ đặc hiệu là 95%. Quần thể sàng tuyển có 1000 người. Từ đó, tính được giá trị dự đoán dương tính là:
+*27%
+99,8%
+1,93%
+7,18%
+
+Câu 31.  Một bệnh có tỷ lệ hiện mắc là 2%, độ nhạy của xét nghiệm sàng tuyển là 90%, độ đặc hiệu là 95%. Quần thể sàng tuyển có 1000 người. Từ đó, tính được giá trị dự đoán âm tính là:
+27%
+*99,8%
+1,93%
+7,18%
+
+Câu 32.  Một bệnh có tỷ lệ hiện mắc là 1%, độ nhạy của xét nghiệm sàng tuyển là 90%, độ đặc hiệu là 95%. Quần thể sàng tuyển có 1000 người. Từ đó, tính được giá trị dự đoán dương tính là:
+*15,4%
+27%
+99,8%
+3%
+
+Câu 33.  Một bệnh có tỷ lệ hiện mắc là 1%, độ nhạy của xét nghiệm sàng tuyển là 90%, độ đặc hiệu là 95%. Quần thể sàng tuyển có 1000 người. Từ đó, tính được giá trị dự đoán âm tính là:
+*99,9%
+47,8%
+95,6%
+1,1%
+
+Câu 34.  Một quần thể sàng tuyển sau xét nghiệm có 67 kết quả dương tính, trong đó 18 người có bệnh và 49 người không có bệnh. Có 933 kết quả âm tính trong đó có 2 người có bệnh, 931 người không bị bệnh. Độ nhạy của xét nghiệm là:
+*90%
+10%
+95%
+5%
+
+Câu 35.  Một quần thể sàng tuyển sau xét nghiệm có 67 kết quả dương tính, trong đó 18 người có bệnh và 49 người không có bệnh. Có 933 kết quả âm tính trong đó có 2 người có bệnh, 931 người không bị bệnh. Tỉ lệ hiện mắc là:
+*2%
+18%
+36,7%
+10%
+
+Câu 36.  Một quần thể sàng tuyển sau xét nghiệm có 67 kết quả dương tính, trong đó 18 người có bệnh và 49 người không có bệnh. Có 933 kết quả âm tính trong đó có 2 người có bệnh, 931 người không bị bệnh. Độ đặc hiệu của xét nghiệm là: 
+90%
+10%
+*95%
+5%

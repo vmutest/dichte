@@ -1,0 +1,287 @@
+﻿Câu 1. Mẫu ngẫu nhiên đơn có ưu điểm là:
+* Tính ngẫu nhiên cao
+Kết quả có tính tổng quát thấp, tính giá trị cao
+Tập trung được đối tượng nghiên cứu.
+Áp dụng cho những nghiên cứu trên địa bàn rộng
+
+Câu 2.  Khung mẫu để chọn mẫu ngẫu nhiên đơn có thể dựa vào danh sách:
+Số xã trong huyện
+*Nhân khẩu tại địa bàn
+Hộ gia đình
+Sổ hộ khẩu
+
+Câu 3.  Đơn vị mẫu trong mẫu ngẫu nhiên đơn với nghiên cứu đánh giá tình trạng suy dinh đường của trẻ dưới 5 tuổi tại một huyện là.
+Hộ gia đình có trẻ dưới 5 tuổi
+*Trẻ dưới 5 tuổi
+Nhà trẻ
+Cụm dân cư
+
+Câu 4.  Số đầu tiên được chọn khi chọn mẫu hệ thống là một số ngẫu nhiên được lấy ra từ:
+* Khoảng cách mẫu thứ nhất
+Quần thể nghiên cứu
+2 x ( khoảng cách mẫu)
+3 x ( khoảng cách mẫu)
+
+Câu 5.  Chọn mẫu theo phương pháp chọn mẫu hệ thống, tính ngẫu nhiên rơi vào:
+Từng tầng nghiên cứu
+* Cá thể trong tầng
+Từng chùm nghiên cứu
+Từng lớp nghiên cứu
+
+Câu 6.  Hạn chế của một số phương pháp chọn mẫu ngẫu nhiên là cần phải có khung mẫu, trong phương pháp chọn mẫu:
+* Ngẫu nhiên đơn
+Mẫu chùm
+Mẫu hệ thống
+Phương pháp PPS
+
+Câu 7.  Phương pháp chọn mẫu thường được áp dụng trong nghiên cứu cộng đồng khi quần thể nghiên cứu có quy mô rất lớn và các cộng đồng có kích thước khác nhau:
+Ngẫu nhiên đơn
+Mẫu chùm
+Mẫu hệ thống
+*Mẫu chùm theo phương pháp PPS
+
+Câu 8.  Phương pháp chọn mẫu chùm cần có ít nhất:
+15 chùm
+20 chùm
+25 chùm
+*30 chùm
+
+Câu 9.  Ưu điểm chọn mẫu chùm trong nghiên cứu dịch tễ học:
+*Áp dụng trong các nghiên cứu quy mô lớn, các đối tượng nghiên cứu có độ phân tán cao, ít tốn kém chi phí.
+Áp dụng trong các nghiên cứu quy mô lớn, các chùm nghiên cứu có độ phân tán cao, ít tốn kém chi phí
+Áp dụng trong các nghiên cứu quy mô nhỏ, các đối tượng nghiên cứu tập trung, ít tốn kém chi phí.
+Áp dụng trong các nghiên cứu quy mô nhỏ, các chùm nghiên cứu tập trung, ít tốn kém chi phí.
+
+Câu 10.  Mẫu chùm có đặc điểm
+Kích thước các chùm như nhau
+*Kích thước các chùm không đều nhau
+Các cá thể trong mỗi chùm có đặc điểm hoàn toàn giống nhau
+Đơn vị mẫu là cá thể trong mỗi chùm
+
+Câu 11.  Mẫu ngẫu nhiên đơn có ưu điểm là:
+* Tính ngẫu nhiên cao
+Kết quả có tính tổng quát thấp, tính giá trị cao
+Tập trung được đối tượng nghiên cứu
+Áp dụng cho những nghiên cứu trên địa bàn rộng
+
+Câu 12.  Tập hợp các cá thể đồng nhất về một đặc trưng nào đó ( tự nhiên, sinh học, xã hội), từ đó cá thể áp dụng kết quả nghiên cứu là:
+*Quần thể
+Xã hội
+Cá thể
+Hệ sinh thái
+
+Câu 13.  Nhược điểm của chọn mẫu ngẫu nhiên đơn: 
+*Tốn kém và mất thời gian do các cá thể phân bố tản mạn trong cộng đồng
+Các cá thể được chọn có thể thiếu tính đại diện.
+Các cá thể phải được liệt kê theo danh sách và được gắn số ngẫu nhiên để chọn ngẫu nhiên, khó thực hiện trong thực tế ở một số cộng đồng
+Tính đại diện cho quần thể thường thấp
+
+Câu 14.  Nhược điểm của chọn mẫu ngẫu nhiên phân tầng: 
+Cần danh sách các đơn vị nghiên cứu để phục vụ cho chọn mẫu. Không luôn thỏa mãn khi mẫu lớn hoặc mẫu dao động.
+Các cá thể được chọn có thể thiếu tính đại diện.
+*Các cá thể phải được liệt kê theo danh sách và được gắn số ngẫu nhiên để chọn ngẫu nhiên, khó thực hiện trong thực tế ở một số cộng đồng
+Tính đại diện cho quần thể thường thấp
+
+Câu 15.  Nghiên cứu dịch tễ học cần theo mẫu vì:
+*Quần thể nghiên cứu thường rất lớn, khó có đủ điều kiện để nghiên cứu tất cả các cá thể.
+Quần thể nghiên cứu không đồng nhất về đặc điểm nghiên cứu.
+Đa dạng cá thể trong quần thể.
+Tất cả đều đúng
+
+Câu 16.  Đặc điểm nào của đối tượng nghiên cứu xác định các tiêu chuẩn xây dựng kế hoạch chọn mẫu đúng đắn:
+Các đặc điểm về không gian
+Các đặc điểm về cấu trúc
+*Các đặc điểm về không gian và thời gian
+Các đặc điểm về thời gian 
+
+Câu 17.  Ưu điểm chọn mẫu ngẫu nhiên đơn: 
+*Đơn giản, tính ngẫu nhiên và tính đại diện cao
+Giảm sự chênh lệch giữa các cá thể nghiên cứu, tính đại diện và khái quát hóa cao.
+Áp dụng quy mô lớn
+Chi phí thấp
+
+Câu 18.  Tất cả các mẫu có cùng kích thước đều có cùng cơ hội được lựa chọn như nhau, tất cả các đơn vị mẫu trong khung mẫu đều có cơ hội được chọn như nhau:
+Mẫu chỉ tiêu ( quota sampling)
+Mẫu ngẫu nhiên hệ thống ( Systematic Sampling)
+*Mẫu ngẫu nhiên đơn ( Simple Random Sampling)
+Mẫu phân tầng ( Stratified Sampling)
+
+Câu 19.  Nghiên cứu dịch tễ học cần theo mẫu vì:
+*Nhân lực, thời gian, ngân sách có hạn.
+Quần thể nghiên cứu không đồng nhất về đặc điểm nghiên cứu.
+Đa dạng cá thể trong quần thể.
+Các yếu tố nhiễu trong quần thể.
+
+Câu 20.  Trong nghiên cứu định lượng, điểm xuất phát của việc phân tích số liệu thường là: 
+Ngoại suy các kết quả nghiên cứu từ mẫu ra quần thể
+*Mô tả các số liệu của từng biến trong toàn bộ các đơn vị nghiên cứu trong mẫu.
+Mô tả các số liệu của quần thể nghiên cứu
+Mô tả các số liệu của các đơn vị nghiên cứu trong mẫu
+
+Câu 21.  Tập hợp các cá thể có chung những đặc trưng mà ta định nghiên cứu:
+Quần thể
+*Quần thể nghiên cứu
+Quần thể đích
+Quần thể đặc biệt
+
+Câu 22.  Trong một nghiên cứu so sánh về hiệu quả 2 phác đồ điều trị. Nhà nghiên cứu chia bệnh nhân làm hai lô: số bệnh nhân đến khám vào ngày chẵn sẽ điều trị theo phác đồ mới, còn bệnh nhân đến khám vào ngày lẻ. Đây là ví dụ về:
+Chọn mẫu theo sự giới thiệu
+Chọn mẫu thuận tiện ( convenient sampling)
+*Chọn mẫu có mục đích ( purposive sampling)
+Mẫu chỉ tiêu ( quota sampling)
+
+Câu 23.  Quần thể đích là: 
+Tập hợp các cá thể đồng nhất về một đặc trưng nào đó ( tự nhiên, sinh học, xã hội), từ đó cá thể áp dụng kết quả nghiên cứu
+Tập hợp các cá thể có chung những đặc trưng mà ta định nghiên cứu
+*Quần thể lớn hơn quần thể nghiên cứu mà ta muốn khái quát hóa các kết quả từ mẫu thành các tham số của nó.
+Quần thể mà từ đó cỡ mẫu được rút ra.
+
+Câu 24.  Chọn một mẫu nghiên cứu tốt thì phải trả lời câu hỏi: 
+*Quần thể nào ? Nghiên cứu bao nhiêu người ? Làm thế nào để chọn những người này ?
+Quần thể nào ? Nghiên cứu bao nhiêu lâu ? Làm thế nào để chọn những người này ?
+Quần thể nào ? Nghiên cứu ở đâu ? Nghiên cứu bao nhiêu người ?
+Quần thể nào ? Chọn mẫu như thế nào ? Nghiên cứu bao nhiêu người ?
+
+Câu 25.  Để lựa chọn một mẫu tối ưu cần căn cứ vào yếu tố nào
+*Những đòi hỏi về khoa học, những điều kiện về tài chính, nhân lực, vật lực, với một sai số hợp lý
+Một yêu cầu về tính khoa học, điều kiện về tài chính, nhân lực, vật lực
+Yêu cầu về tính khoa học học, điều kiện về tài chính, sai số cho phép
+Phụ thuộc vào đặc điểm của quần thể, phương pháp chọn mẫu 
+
+Câu 26.  Mẫu đại diện của quần thể không có đặc tính nào sau đây
+Tính xác thực( accuracy)
+Không có sai lệch( unbiased)
+*Tính khách quan
+Tính giá trị và độ tin cậy cao của đại lượng thống kê 
+
+Câu 27.  Quy trình lấy mẫu trong nghiên cứu định lượng có mấy bước
+2 bước
+4 bước
+*6 bước
+8 bước
+
+Câu 28.  Khung mẫu trong nghiên cứu dịch tễ học: 
+*Danh sách quần thể nghiên cứu hay còn gọi là đơn vị chọn mẫu, đơn vị phân tích mà mẫu được chọn
+Các chỉ số thống kê được tính từ mẫu dùng để ước lượng giá trị thực thông số quần thể.
+Dung lượng mẫu ít nhất các đơn vị nghiên cứu chọn ra
+Tổng các phần tử trong nghiên cứu
+
+Câu 29.  Quy trình lấy mẫu trong nghiên cứu định tính có mấy bước
+2 bước
+*4 bước
+6 bước
+8 bước
+
+Câu 30.  Cỡ mẫu được rút ra từ quần thể: 
+*Quần thể nghiên cứu
+Quần thể đích
+Quần thể đặc biệt
+Quần thể tham số
+
+Câu 31.  Khái niệm mẫu trong nghiên cứu dịch tễ học: 
+Được chọn ra từ quần thể mẫu và có tính đại diện để so sánh với các quần thể khác.
+Được chọn ra từ quần thể mẫu để đối sánh với quần thể đích trong nghiên cứu.
+Một bộ phận của quần thể, được chọn ra từ quần thể và không đại diện cho quần thể đó.
+*Một bộ phận của quần thể, được chọn ra từ quần thể và có tính đại diện cho quần thể đó.
+
+Câu 32.  Ưu điểm của nghiên cứu theo mẫu: 
+Giảm nhu cầu về nguồn lực
+Đặt kết quả nhanh chóng
+Có thể thu thập được các số liệu chính xác hơn
+*Tất cả đều đúng
+
+Câu 33.  Cách chọn mẫu nào sau đây là chọn mẫu không xác suất: 
+*Mẫu chỉ định ( Purposive or Judgemental sampling)
+Mẫu ngẫu nhiên hệ thống ( Systematic Sampling)
+Mẫu ngẫu nhiên đơn ( Simple Random Sampling)
+Mẫu phân tầng ( Stratified Sampling)
+
+Câu 34.  Cách chọn mẫu nào sau đây là chọn mẫu không xác suất: 
+*Mẫu thuận tiện ( Haphazard or Convenience sampling)
+Mẫu ngẫu nhiên hệ thống ( Systematic Sampling)
+Mẫu ngẫu nhiên đơn ( Simple Random Sampling)
+Mẫu phân tầng ( Stratified Sampling)
+
+Câu 35.  Cách chọn mẫu nào sau đây là chọn mẫu không xác suất: 
+*Mẫu theo sự giới thiệu của đối tượng
+Mẫu ngẫu nhiên hệ thống ( Systematic Sampling)
+Mẫu ngẫu nhiên đơn ( Simple Random Sampling)
+Mẫu phân tầng ( Stratified Sampling)
+
+Câu 36.  Cách chọn mẫu nào sau đây là chọn mẫu xác suất: 
+Mẫu theo sự giới thiệu của đối tượng
+*Mẫu ngẫu nhiên hệ thống ( Systematic Sampling)
+Mẫu thuận tiện ( Haphazard or Convenience sampling)
+Mẫu chỉ định ( Purposive or Judgemental sampling)
+
+Câu 37.  Nhược điểm của chọn mẫu ngẫu nhiên hệ thống: 
+Cần danh sách các đơn vị nghiên cứu để phục vụ cho chọn mẫu. Không luôn thỏa mãn khi mẫu lớn hoặc mẫu dao động.
+*Khung mẫu tình cờ trùng với khoảng chọn mẫu hệ thống thì các cá thể được chọn có thể thiếu tính đại diện
+Các cá thể phải được liệt kê theo danh sách và được gắn số ngẫu nhiên để chọn ngẫu nhiên, khó thực hiện trong thực tế ở một số cộng đồng
+Tính đại diện cho quần thể thường thấp
+
+Câu 38.  Nhược điểm của nghiên cứu theo mẫu: 
+*Luôn có sai số lựa chọn
+Thu thập số liệu không chính xác
+Nguồn lực lớn
+Thời gian nghiên cứu kéo dài
+
+Câu 39.  Nhược điểm của nghiên cứu theo mẫu: 
+*Không xác định được đầy đủ ca bệnh cho nghiên cứu với sự kiện hiếm
+Thời gian nghiên cứu kéo dài
+Chi phí tốn kém
+Sai số thống kê
+
+Câu 40.  Phương pháp chọn mẫu không xác suất mà số cá thể đưa vào mẫu nghiên cứu theo nguyên tắc “sẵn có” và thường áp dụng:
+Mẫu chỉ tiêu ( quota sampling)
+*Chọn mẫu thuận tiện ( convenient sampling)
+Chọn mẫu có mục đích ( purposive sampling)
+Chọn mẫu theo sự giới thiệu
+
+Câu 41.  Phương pháp chọn mẫu không xác suất mà người nghiên cứu đã xác định trước các nhóm quan trọng liên quan đến vấn đề nghiên cứu để thu thập số liệu, mỗi nhóm có một lượng mẫu tham gia nghiên cứu khác nhau: 
+Mẫu chỉ tiêu ( quota sampling)
+Chọn mẫu thuận tiện ( convenient sampling)
+*Chọn mẫu có mục đích ( purposive sampling)
+Chọn mẫu theo sự giới thiệu
+
+Câu 42.  Phương pháp chọn mẫu cần đảm bảo một số lượng nhất định các đơn vị mẫu của các loại khác nhau trong quần thể phải có mặt trong mẫu: 
+*Mẫu chỉ tiêu ( quota sampling)
+Chọn mẫu thuận tiện ( convenient sampling)
+Chọn mẫu có mục đích ( purposive sampling)
+Chọn mẫu theo sự giới thiệu
+
+Câu 43.  Cách chọn mẫu nào sau đây là chọn mẫu không xác suất: 
+*Mẫu chỉ tiêu ( quota sampling)
+Mẫu ngẫu nhiên hệ thống ( Systematic Sampling)
+Mẫu ngẫu nhiên đơn ( Simple Random Sampling)
+Mẫu phân tầng ( Stratified Sampling)
+
+Câu 44.  Cách chọn mẫu nào sau đây là chọn mẫu xác suất: 
+Mẫu theo sự giới thiệu của đối tượng
+* Mẫu ngẫu nhiên đơn ( Simple Random Sampling)
+Mẫu thuận tiện ( Haphazard or Convenience sampling)
+Mẫu chỉ định ( Purposive or Judgemental sampling)
+
+Câu 45.  Cách chọn mẫu nào sau đây là chọn mẫu xác suất: 
+Mẫu theo sự giới thiệu của đối tượng
+* Mẫu phân tầng ( Stratified Sampling)
+Mẫu thuận tiện ( Haphazard or Convenience sampling)
+Mẫu chỉ định ( Purposive or Judgemental sampling)
+
+Câu 46.  Cách chọn mẫu nào sau đây là chọn mẫu xác suất: 
+Mẫu theo sự giới thiệu của đối tượng
+* Mẫu cụm ( Clustered Sampling)
+Mẫu thuận tiện ( Haphazard or Convenience sampling)
+Mẫu chỉ định ( Purposive or Judgemental sampling)
+
+Câu 47.  Ưu điểm chọn mẫu ngẫu nhiên đơn: 
+*Có thể lồng ghép vào các kỹ thuật chọn mẫu khác.
+Giảm sự chênh lệch giữa các cá thể nghiên cứu, tính đại diện và khái quát hóa cao.
+Áp dụng quy mô lớn
+Chi phí thấp
+
+Câu 48.  Nhược điểm của chọn mẫu ngẫu nhiên đơn: 
+*Cần danh sách các đơn vị nghiên cứu để phục vụ cho chọn mẫu. Không luôn thỏa mãn khi mẫu lớn hoặc mẫu dao động.
+Các cá thể được chọn có thể thiếu tính đại diện.
+Các cá thể phải được liệt kê theo danh sách và được gắn số ngẫu nhiên để chọn ngẫu nhiên, khó thực hiện trong thực tế ở một số cộng đồng
+Tính đại diện cho quần thể thường thấp

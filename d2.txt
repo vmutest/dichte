@@ -1,0 +1,341 @@
+﻿Câu 1. Chỉ số được định nghĩa là:
+Số đo giúp đo lường
+Số đo để so sánh những sự thay đổi
+Số đo để đánh giá các hoạt động y tế
+* Số đo giúp đo lường và so sánh những sự thay đổi.
+
+Câu 2.  Tỷ lệ mắc có thể thu được trong các nghiên cứu sau đây:
+Các nghiên cứu cắt ngang
+* Các nghiên cứu thuần tập (cohort study)
+Các nghiên cứu bệnh chứng
+Các nghiên cứu chùm bệnh
+
+Câu 3.  Tỷ lệ hiện mắc có thể thu được trong các nghiên cứu nào sau đây:
+Nghiên cứu bệnh chứng
+* Nghiên cứu cắt ngang
+Nghiên cứu thuần tập
+Nghiên cứu chùm bệnh
+
+Câu 4.  Về lý thuyết, mẫu số của tỷ lệ mới mắc tích luỹ bao gồm:
+Số cá thể của quần thể có khả năng bị mắc bệnh trong quần thể tại một thời điểm trong quần thể 
+* Tổng số cá thể của quần thể có khả năng mắc bệnh trong quần thể tại thời điểm giữa của nghiên cứu
+Toàn bộ cá thể trong quần thể tại thời điểm bắt đầu nghiên cứu.
+Tổng số thời gian theo dõi được của các cá thể mắc bệnh quan tâm
+
+Câu 5.  Tỷ lệ mới mắc của 2 bệnh A và B là tương đương nhau. nhưng tỷ lệ hiện mắc tại một thời điểm của bệnh A lại cao hơn bệnh B . Cách giải thích phù hợp là:
+* Bệnh A có bệnh kỳ dài hơn bệnh B 
+Bệnh A có bệnh kỳ ngắn hơn bệnh B
+Bệnh A có tỷ lệ tử vong cao hơn bệnh B 
+Bệnh B có tỷ lệ chuyển thành mạn tính cao hơn bệnh A
+
+Câu 6.  Tỷ lệ hiện mắc có thể giảm bằng cách:
+Kéo dài thời gian mắc bệnh
+* Giảm tỷ lệ mới mắc 
+Tăng tỷ lệ mới mắc
+Cải tiến việc chẩn đoán bệnh
+
+Câu 7.  Ví dụ sau đây biểu thị khái niệm nào: tỷ lệ dân số tham gia BHYT = số dân tham gia BHYT ở khu vực trong khoảng thời gian xác định / Tổng số dân cư khu vực đó.
+Tỷ số
+Tỷ lệ
+* Tỷ lệ phần trăm
+Tỷ suất
+
+Câu 8.  Tỷ lệ hiện mắc được tính như sau:
+P= (Tổng số mắc bệnh tại một thời điểm nhất định hoặc trong một khoảng thời gian nhất định / Tổng số người – thời gian theo dõi ở quần thể nguy cơ) x K 
+* P= (Tổng số mắc bệnh tại một thời điểm nhất định hoặc trong một khoảng thời gian nhất định / Tổng số người ở quần thể nguy cơ) x K 
+P= (Tổng số mới mắc của một bệnh tại một thời điểm trong một khoảng thời gian nhất định / Tổng thời gian có nguy cơ theo dõi được của các cá thể) x K.
+P= (Tổng số mới mắc của một bệnh ở quần thể trong một khoảng thời gian nhất định / Tổng số người có nguy cơ mắc ở quần thể đó trong thời gian đó) x K 
+
+Câu 9.  Tỷ lệ mới mắc tích lũy (CI) được tính như sau:
+CI= (Tổng số mắc bệnh tại một thời điểm nhất định hoặc trong một khoảng thời gian nhất định / Tổng số người- thời gian theo dõi ở quần thể nguy cơ) x K
+CI= (Tổng số mắc bệnh tại một thời điểm nhất định hoặc trong một khoảng thời gian nhất định / Tổng số người ở quần thể nguy cơ) x K
+CI= (Tổng số mới mắc của một bệnh ở một bệnh trong một khoảng thời gian nhất định / Tổng thời gian có nguy cơ theo dõi được của các cá thể) x K
+* CI= (Số người mới mắc bệnh trong một khoảng thời gian nhất định / Số người không bị bệnh trong quần thể nguy cơ khi bắt đầu nghiên cứu) x K 
+
+Câu 10.  Tỷ lệ tấn công được tính như sau:
+= (Tổng số mắc bệnh tại một thời điểm nhất định hoặc trong một khoảng thời gian nhất định / Tổng số người – thời gian theo dõi ở quần thể nguy cơ)x k
+= (Tổng số mắc bệnh tại một thời điểm nhất định hoặc trong một khoảng thời gian nhất định / Tổng số người ở quần thể nguy cơ) x k
+= (Tổng số mới mắc của một bệnh ở một bệnh trong một khoảng thời gian nhất định / Tổng thời gian có nguy cơ theo dõi được của cá thể) x k
+* = (Tổng số trường hợp mới mắc bùng phát của một bệnh ở một quần thể trong một khoảng thời gian ngắn/ Tổng số người có nguy cơ mắc ở quần thể đó trong thời gian ngắn) x k
+
+Câu 11.  Phát biểu nào sau đây là đúng:
+Nghiên cứu ngang cho phép tính được tỷ lệ mới mắc và mật độ mới mắc
+Nghiên cứu thuần tập tương lai cho phép tính được tỉ lệ hiện mắc
+* Muốn giảm tỷ lệ hiện mắc thì có thể thực hiện biện pháp chống dịch hữu hiệu như bảo vệ khối cảm nhiễm, cắt đường truyền nhiễm, k00E1hông để xuất hiện những trường hợp bệnh mới.
+Để giảm tỷ lệ mới mắc có thể thực hiện điều trị khỏi. rút ngắn thời gian điều trị.
+
+Câu 12.  Khái niệm nào sau đây biểu thị tần số trong một mối tương quan với cở mẫu
+Tần số cộng dồn
+Tần số tuyệt đối
+* Tần số tương đối
+Tần số cộng dồn và tần số tuyệt đối
+
+Câu 13.  Khái niệm nào sau đây biểu thị tần số thực của một quan sát và không phụ thuộc vào cỡ mẫu lớn hay nhỏ.
+Tần số cộng dồn
+* Tần số tuyệt đối
+Tần số tương đối
+Tần suất
+
+Câu 14.  Chỉ số không có đặc tính nào sau đây.
+Độ nhạy
+Độ đặc hiệu
+Tính đơn giản
+* Tính chính xác
+
+Câu 15.  Tỷ lệ hiện mắc P ở một thời điểm được định nghĩa là:
+Số ca mới mắc trong một thời gian nhân với thời gian mắc bệnh trung bình.
+* Số ca mới mắc trong một thời gian chia cho dân số trung bình trong thời gian đó
+Số ca hiện có nhân với dân số thời điểm đó
+Số ca hiện có chia cho dân số trung bình trong năm
+
+Câu 16.  Tỷ lệ mới mắc của nam gấp 5 lần ở nữ. nhưng tỷ lệ hiện mắc tại một thời điểm của hai giới lại không khác nhau. Giải thích nào sau đây là phù hợp
+Tỷ lệ chết của nữ cao hơn nam
+* Thời gian mắc bệnh của nữ dài hơn của nam
+Việc chẩn đoán bệnh ở nữ khó khăn hơn.
+Tất cả đều đúng
+
+Câu 17.  Nhà nghiên cứu cần xác định số người- thời gian để xác định đo lường nào sau đây:
+Tỷ suất mới mắc tích lũy
+* Tỷ suất mật độ mới mắc
+Tỷ lệ hiện mắc
+Tỷ lệ tấn công. 
+
+Câu 18.  Nếu muốn giảm tỷ lệ hiện mắc bệnh dại thì có thể thực hiện biện pháp nào là khả thi.
+Giảm số mới mắc
+Giảm thời gian mắc bệnh
+Tăng thời gian điều trị ca bệnh 
+* Giảm số mới mắc và thời gian mắc bệnh 
+
+Câu 19.  Để giảm số mới mắc thì có thể thực hiện biện pháp nào:
+* Phòng chống bệnh hiệu quả
+Có biện pháp điều trị tốt
+Rút ngắn thời gian điều trị
+Tăng cường sức khỏe người dân
+
+Câu 20.  Để giảm bệnh kỳ( thời gian mắc bệnh trung bình) thì thực hiện biện pháp nào:
+Phòng chống bệnh hiệu quả
+Bảo vệ khối cảm nhiễm
+Cắt đứt đường truyền nhiễm
+* Có biện pháp điều trị tốt. 
+
+Câu 21.  Yếu tố nào không làm tăng tỷ lệ hiện mắc(P)
+Thời gian mắc bệnh dài
+* Tỷ lệ chết mắc cao
+Tỷ suất mới mắc tăng
+Cải tiến chẩn đoán bệnh
+
+Câu 22.  Yếu tố nào làm tăng tỷ lệ mới mắc (I)
+Nhập cư người khỏe
+* Cải tiến trong chẩn đoán bệnh
+Di cư người ốm
+Cải tiến điều trị bệnh
+
+Câu 23.  Tỷ suất mới mắc được sử dụng nhằm:
+Đánh giá sức khỏe quần thể đối với một bệnh
+Lập dự án về nhu cầu chăm sóc sức khỏe cho quần thể
+Khai thác các quan hệ nhân quả
+* Đánh giá các hiệu quả y tế đã đáp ứng trong quần thể
+
+Câu 24.  Tỷ suất hiện mắc được sử dụng nhằm 
+Đánh giá nguy cơ về phát triển bệnh theo thời gian
+Chứng minh vai trò của các yếu tố nguy cơ nghi ngờ
+* Lập kế hoạch cho các dịch vụ y tế
+Cơ sở cho các nhu cầu phòng bệnh
+
+Câu 25.  Công thức tính tỷ lệ chết/mắc được tính là:
+Số trường hợp tử vong vì một bệnh trong khoảng thời gian xác định/ Tổng số trường hợp có nguy cơ trong thời gian đó.
+* (Số trường hợp tử vong vì một bệnh trong khoảng thời gian xác định/ Tổng số trường hợp chẩn đoán mắc bệnh trong cùng thời gian) x 100
+(Số trường hợp tử vong vì một bệnh trong khoảng thời gian xác định/ Tổng số trường hợp có nguy cơ được theo dõi trong cùng thời gian đó) x 100
+Số trường hợp tử vong vì một bệnh trong khoảng thời gian xác định/ Tổng số lần được chẩn đoán mắc bệnh trong cùng thời gian đó.
+
+Câu 26.  Công thức tính tỷ lệ tử vong thô:
+*( Số trường hợp tử vong trong khoảng thời gian xác định/ Trung bình tổng quần thể trong khoảng thời gian đó) x k
+(Số trường hợp tử vong vì một bệnh trong khoảng thời gian xác định/ Trung bình tổng quần thể trong khoảng thời gian đó) x k
+(Số trường hợp tử vong vì một bệnh trong khoảng thời gian xác định/ Số trường hợp được chẩn đoán mắc bệnh trong khoảng thời gian đó) x k
+(Số trường hợp tử vong trong khoảng thời gian xác định/ Tổng số người có nguy cơ mắc bệnh của quần thể trong thời gian đó) x k
+
+Câu 27.  Tỷ lệ = 
+a/(ab) 
+a/(a-b)
+* a/(a+b) 
+a/(a: b) 
+
+Câu 28.  Tỷ suất = 
+[ a/(a+b) ] × 100 
+[ a/(a+b) ] × 1000 
+[ a/(a+b) ] × 10n 
+* a/b 
+
+Câu 29.  Tỷ lệ hiện mắc quan sát tăng lên khi: 
+* Kéo dài thời gian bị bệnh 
+Tỷ lệ tử vong cao 
+Giảm số mới mắc 
+Sự tới của người khỏe 
+
+Câu 30.  Tỷ lệ hiện mắc quan sát tăng lên khi: 
+* Kéo dài sự sống ở bệnh nhân không có chữa trị
+Rút ngắn thời gian bị bệnh 
+Tỷ lệ tử vong cao 
+Giảm số mới mắc 
+
+Câu 31.  Tỷ lệ hiện mắc quan sát tăng lên khi: 
+*Tăng số mới mắc 
+Tỷ lệ tử vong cao 
+Giảm số mới mắc 
+Sự tới của người khỏe 
+
+Câu 32.  Tỷ lệ hiện mắc quan sát tăng lên khi: 
+* Sự tới của các ca bệnh
+Tỷ lệ tử vong cao 
+Giảm số mới mắc 
+Sự tới của người khỏe 
+
+Câu 33.  Tỷ lệ hiện mắc quan sát tăng lên khi: 
+* Sự ra đi của người khỏe 
+Rút ngắn thời gian bị bệnh 
+Tỷ lệ tử vong cao 
+Giảm số mới mắc 
+
+Câu 34.  Tỷ lệ hiện mắc quan sát tăng lên khi: 
+* Sự tiến bộ của các phương tiện chẩn đoán (tăng ghi nhận) 
+Rút ngắn thời gian bị bệnh 
+Tỷ lệ tử vong cao 
+Giảm số mới mắc 
+
+Câu 35.  Tỷ lệ hiện mắc quan sát tăng lên khi: 
+* Sự tới cuả người nhạy cảm 
+Tỷ lệ tử vong cao 
+Giảm số mới mắc 
+Sự ra đi của các cas 
+
+Câu 36.  Tỷ lệ hiện mắc quan sát giảm xuống khi: 
+* Rút ngắn thời gian bị bệnh 
+Kéo dài thời gian bị bệnh 
+Tăng số mới mắc 
+Sự tới của người nhạy cảm 
+
+Câu 37.  Tỷ lệ hiện mắc quan sát giảm xuống khi: 
+Kéo dài thời gian bị bệnh 
+Kéo dài sự sống 
+* Giảm số mới mắc 
+Tăng số mới mắc 
+
+Câu 38.  Tỷ lệ hiện mắc quan sát giảm xuống khi: 
+* Sự tới của người khỏe 
+Kéo dài thời gian bị bệnh 
+Kéo dài sự sống
+Tăng số mới mắc 
+
+Câu 39.  Tỷ lệ hiện mắc quan sát giảm xuống khi: 
+Kéo dài thời gian bị bệnh 
+Sự ra đi của người khỏe 
+* Sự ra đi của các cas 
+Sự tới của người nhạy cảm 
+
+Câu 40.  Tỷ lệ hiện mắc quan sát giảm xuống khi: 
+Sự tới của các case
+Sự ra đi của người khỏe 
+Sự tới của người nhạy cảm 
+* Tăng tỷ lệ điều trị khỏi. 
+
+Câu 41.  Tỷ lệ hiện mắc quan sát giảm xuống khi: 
+Kéo dài sự sống 
+* Tỷ lệ tử vong cao 
+Sự tới của các cas 
+Sự ra đi của người khỏe 
+
+Câu 42.  Với một bệnh có thời gian phát triển trung bình tương đối ổn định thì: 
+* I = P / D 
+D= P × I 
+P = I / D 
+I = P × D 
+
+Câu 43.  Với một bệnh có thời gian phát triển trung bình tương đối ổn định thì: 
+* P = I × D 
+D = P × I 
+P = I / D 
+I = P × D 
+
+Câu 44.  Với một bệnh có thời gian phát triển trung bình tương đối ổn định thì: 
+* D = P / I 
+D = P × I 
+P = I /D
+I = P ×D
+
+Câu 45.  Tỷ lệ hiện mắc là một phân số. Mẫu số của tỷ lệ hiện mắc là: 
+Tổng số quần thể 
+* Tổng số quần thể có nguy cơ 
+Tổng số quần thể có nguy cơ giữa thời kỳ nghiên cứu 
+Tổng số quần thể ở một độ tuổi nhất định 
+
+Câu 46.  Tỷ lệ mới mắc là một phân số. Mẫu số của tỷ lệ mới mắc là: 
+Tổng số quần thể 
+Tổng số quần thể có nguy cơ 
+* Tổng số quần thể có nguy cơ giữa thời kỳ nghiên cứu 
+Tổng số quần thể ở một độ tuổi nhất định 
+
+Câu 47.  Mẫu số của tỷ lệ chết chung (thô) là: 
+* Tổng số quần thể 
+Tổng số quần thể có nguy cơ 
+Tổng số người bị bệnh 
+Tổng số quần thể ở một độ tuổi nhất định 
+
+Câu 48.  Mẫu số của tỷ lệ tử vong là: 
+Tổng số quần thể 
+Tổng số quần thể có nguy cơ 
+* Tổng số người bị bệnh 
+Tổng số quần thể ở một độ tuổi nhất định 
+
+Câu 49.  Ví dụ sau đây biểu thị khái niệm nào:.
+Tỷ suất
+Tỷ lệ
+Tỷ lệ phần trăm
+* Tỷ số
+
+Câu 50.  Ví dụ sau đây biểu thị khái niệm nào: tỷ lệ dân số tham gia BHYT = số dân tham gia BHYT ở khu vực trong khoảng time xác định / tổng số dân cư khu vực đó.
+* Tỷ lệ
+Tỷ số
+Tỷ suất
+Tỷ lệ phần trăm
+
+Câu 51.  Chọn một câu trả lời đúng.Tỷ lệ nam giới = số nam trung bình của một quần thể trong khoảng time xác định/ tổng dân số trung bình của quần thể trong time đó. ví dụ sau đây biểu thị khái niệm nào:
+Tỷ số
+* Tỷ lệ
+Tỷ suất
+Tỷ số phần trăm
+
+Câu 52.  Khi có 10 trường hợp mắc bệnh A xảy ra trong một giai đoạn là 2 năm trong một quần thể có số cá thể cố định là 50000 người. tỷ lệ người /thời gian của bệnh A trong quần thể đó được tính là:
+10 trường hợp/ 5000 người – năm.
+* 10 trường hợp/ 100000 người – năm
+10 trường hợp/ 50000 người – năm
+10 trường hợp/ 25000 người – năm
+
+Câu 53.  Số người cao tuổi được chẩn đoán là mới mắc bệnh tăng huyết áp trên 3000 người – năm theo dõi là biểu diễn của:
+* Tỷ suất mật độ mới mắc
+Tỷ lệ hiện mắc kỳ
+Tỷ suất mới mắc tích lũy.
+Tỷ lệ hiện mắc điểm
+
+Câu 54.  Bệnh nhân nhập viện với bệnh viêm đường hô hấp dễ lây lan. Trước khi bệnh nhân nhập viện không có nhân viên y tế nào bị bệnh. Sau 10 ngày kể từ khi bệnh nhân nhập viện, tính được tỷ lệ nhân viên của bệnh viện bị viêm đường hô hấp là 12%.
+Tỷ suất mật độ mới mắc
+Tỷ lệ hiện mắc điểm
+* Tỷ suất mới mắc tích lũy
+Tỷ lệ hiện mắc kỳ.
+
+Câu 55.  Tỷ suất tử vong trẻ em dưới 1 tuổi được tính như sau:
+Số tử vong trong 1 năm của trẻ dưới 1 tuổi / tổng số trẻ được sinh ra sống được 1 tuổi trong cùng năm X 1000
+Số tử vong của trẻ em dưới 1 tuổi / tổng số trẻ sinh ra trong cùng năm X 1000
+* Số tử vong trong 1 năm của trẻ dưới 1 tuổi / tổng số trẻ sinh ra sống trong cùng năm X 1000
+Số tử vong trong 1 năm của trẻ dưới 1 tuổi / tổng số trẻ được sinh ra trong cùng năm X 1000
+
+Câu 56.  Một bệnh nhân ung thư có tỷ suất mới mắc I= 60/10^5 được chẩn đoán mỗi năm, biết rằng D của bệnh là 2 năm thì tỷ lệ hiện mắc P là:
+* 120/ 10^5 mỗi năm, nghĩa là 100.000 người trong một năm thì có 120 người mắc bệnh cần điều trị
+30 / 10^5 mỗi năm, nghĩa là 100.000 người trong một năm thì có 30 người mắc bệnh cần điều trị
+120/ 10^5 mỗi 2 năm, nghĩa là 100.000 người trong hai năm thì có 120 người mắc bệnh cần điều trị
+6/ 10^5 mỗi năm, nghĩa là 10.000 người trong một năm thì có 6 người mắc bệnh cần điều trị
+
+Câu 57.  Một bệnh có tỷ suất mới mắc I là I= 50 trường hợp/ tháng. Tỷ lệ hiện mắc (P) = 10 ( lúc nào cũng có 10 người bệnh nằm điều trị ở bệnh viện). thời gian bệnh kỳ trung bình D được tính bằng:
+Kết quả D=50x10/30 ngày =17 ngày
+* Kết quả D=10/50=0,2 tháng =6 ngày
+Kết quả D=(50-10)/50=0,8 tháng =24 ngày
+Kết quả D=10/(50-10)= 0.25 tháng= 8 ngày
