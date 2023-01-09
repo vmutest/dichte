@@ -1,0 +1,275 @@
+﻿Câu 1. Sai số hệ thống là sai số:
+Sự lựa chọn các trường hợp phơi nhiễm và đối chứng dựa trên những tiêu chuẩn khác nhau, có liên quan ảnh hướng đến tình trạng bệnh.
+Xảy ra nếu có sự khác nhau một cách có hệ thống trong việc thu thập thông tin về phơi nhiễm hoặc bệnh từ hai nhóm nghiên cứu
+Bao gồm bất kỳ sai lầm nào có tính chất hệ thống trong nghiên cứu, trong bước đầu tiến hành nghiên cứu nào.
+* Bao gồm bất kỳ sai lầm nào có tính chất hệ thống trong nghiên cứu, trong bất kỳ bước tiến hành nghiên cứu nào.
+
+Câu 2.  Sai số hệ thống nảy sinh khi:
+Sự lựa chọn các trường hợp phơi nhiễm và đối chứng dựa trên những tiêu chuẩn khác nhau, có liên quan ảnh hướng đến tình trạng bệnh.
+Sự lựa chọn các trường hợp phơi nhiễm và đối chứng dựa trên những tiêu chuẩn khác nhau, có liên quan ảnh hướng đến tình trạng phơi nhiễm.
+Sự lựa chọn các trường hợp bệnh và đối chứng dựa trên những tiêu chuẩn khác nhau, có liên quan ảnh hướng đến tình trạng bệnh.
+* Sự lựa chọn các trường hợp bệnh và đối chứng dựa trên những tiêu chuẩn khác nhau, có liên quan ảnh hướng đến tình trạng phơi nhiễm.
+
+Câu 3.  Sai số chọn là sai số:
+* Các sai số có thể tránh được từ lúc thiết kế, xây dựng qui trình nghiên cứu nhưng không thể chỉnh lý được khi phân tích
+Nảy sinh khi có vai trò của các yếu tố may rủi xen vào kết quả nghiên cứu.
+Bao gồm tất cả bất kì sai số nào nảy sinh trong quá trình xác định các cá thể trong nghiên cứu
+Nảy sinh khi người nghiên cứu phân loại nhầm lẫn hoặc về tình trạng phơi nhiễm hoặc về tình trạng bệnh của những người tham gia nghiên cứu.
+
+Câu 4.  Sai số ngẫu nhiên là sai số:
+* Nảy sinh khi có vai trò của các yếu tố may rủi xen vào kết quả nghiên cứu.
+Bao gồm tất cả bất kì sai số nào nảy sinh trong quá trình xác định các cá thể trong nghiên cứu
+Nảy sinh từ sự từ chối hoặc không trả lời của những cá thể trong bất kì nhóm nào ở cả hai nhóm nghiên cứu, hoặc tỷ lệ trả lời lại dựa theo tình trạng phơi nhiễm.
+Nảy sinh khi người nghiên cứu phân loại nhầm lẫn hoặc về tình trạng phơi nhiễm hoặc về tình trạng bệnh của những người tham gia nghiên cứu.
+
+Câu 5.  Sai số chọn là sai số nảy sinh:
+Nảy sinh khi có vai trò của các yếu tố may rủi xen vào kết quả nghiên cứu.
+Nảy sinh từ sự từ chối hoặc không trả lời của những cá thể trong bất kì nhóm nào ở cả hai nhóm nghiên cứu, hoặc tỷ lệ trả lời lại dựa theo tình trạng phơi nhiễm.
+* Khi chọn không đúng các cá thể vào trong các nhóm nghiên cứu theo mẫu do không xác định rõ ràng các tiêu chuẩn chọn hoặc không tuân thủ triệt để các tiêu chuẩn này
+Nảy sinh khi người nghiên cứu phân loại nhầm lẫn hoặc về tình trạng phơi nhiễm hoặc về tình trạng bệnh của những người tham gia nghiên cứu.
+
+Câu 6.  Sai số chọn nảy sinh khi:
+* Nếu chọn các cá thể có phơi nhiễm và không phơi nhiễm có liên quan đến hậu quả bệnh.
+Nảy sinh khi có vai trò của các yếu tố may rủi xen vào kết quả nghiên cứu.
+Nảy sinh từ sự từ chối hoặc không trả lời của những cá thể trong bất kì nhóm nào ở cả hai nhóm nghiên cứu, hoặc tỷ lệ trả lời lại dựa theo tình trạng phơi nhiễm.
+Nảy sinh khi có sự khác nhau một cách có hệ thống trong việc thu thập thông tin về phơi nhiễm hoặc bệnh từ hai nhóm nghiên cứu
+
+Câu 7.  Sai số thường do các thầy thuốc hoặc các điều tra viên gây ra khi họ được biết về mối quan hệ nhân quả cần nghiên cứu là:
+Sai số chọn
+Sai số bỏ cuộc
+Sai số phỏng vấn
+* Sai số chẩn đoán
+
+Câu 8.  Nghiên cứu về sự kết hợp giữa dùng estrogen ngoại sinh với ung thư tử cung, đã cho thấy sự gia tăng giả tạo nguy cơ ung thư tử cung ở phụ nữ dùng estrogen. Sai số ở đây là:
+Sai số chọn
+Sai số bỏ cuộc
+Sai số phỏng vấn
+* Sai số chẩn đoán
+
+Câu 9.  Sai số nảy sinh khi có sự chênh lệch về tỷ lệ trả lời giữa nhóm chủ cứu và nhóm chứng là loại sai số:
+Sai số sống sót chọn lọc
+Sai số phân loại
+Sai số bỏ cuộc
+* Sai số từ chối hoặc không trả lời
+
+Câu 10.  Tỷ lệ trả lời lại dựa theo tình trạng phơi nhiễm làm sai số xuất hiện và ảnh hướng đến sự kết hợp giữa phơi nhiễm và bệnh là:
+Sai số sống sót chọn lọc
+Sai số phân loại
+Sai số bỏ cuộc
+* Sai số từ chối hoặc không trả lời
+
+Câu 11.  Sai số khi các nghiên cứu được tiến hành ở bệnh viện (thường những người có phơi nhiễm hoặc các trường hợp bệnh nặng dễ dàng được thu nhận vào bệnh viện hơn) là:
+Sai số phân loại
+Sai số bỏ cuộc
+* Sai số nhập viện
+Sai số chẩn đoán
+
+Câu 12.  Sai số khi tiến hành các nghiên cứu bệnh có tỷ lệ tử vong cao, do chỉ quan sát kết hợp giữa những người còn sống sót, mà không chú ý đến những người đã chết với cùng một phơi nhiễm là:
+* Sai số sống sót chọn lọc
+Sai số phân loại
+Sai số bỏ cuộc
+Sai số phỏng vấn
+
+Câu 13.  Sai số đo lường là sai số:
+Sự lựa chọn các trường hợp phơi nhiễm và đối chứng dựa trên những tiêu chuẩn khác nhau, có liên quan ảnh hướng đến tình trạng bệnh.
+* Xảy ra nếu có sự khác nhau một cách có hệ thống trong việc thu thập thông tin về phơi nhiễm hoặc bệnh từ hai nhóm nghiên cứu
+Bao gồm bất kỳ sai lầm nào có tính chất hệ thống trong nghiên cứu, trong bước đầu tiến hành nghiên cứu nào.
+Bao gồm bất kỳ sai lầm nào có tính chất hệ thống trong nghiên cứu, trong bất kỳ bước tiến hành nghiên cứu nào.
+
+Câu 14.  Sai số đo lường là, ngoại trừ:
+Sai số nhớ lại
+Sai số thu thập thông tin
+Sai số phỏng vấn
+* Sai số phân loại
+
+Câu 15.  Sai số đo lường là, ngoại trừ:
+Sai số nhớ lại
+* Sai số chẩn đoán
+Sai số bỏ cuộc
+Sai số phân loại
+
+Câu 16.  Sai số nảy sinh do trí nhớ của các cá thể trong nghiên cứu chính xác khác nhau về sự kiện nghiên cứu hoặc nhận thức của họ khác nhau giữa những người có mắc và không mắc bệnh là loại:
+* Sai số nhớ lại
+Sai số chẩn đoán
+Sai số bỏ cuộc
+Sai số phân loại
+
+Câu 17.  Sai số do những hiểu biết về bệnh làm sai lệch lịch sử phơi nhiễm trước đây của nhữngngười dự cuộc là loại:
+Sai số nhớ lại
+Sai số chẩn đoán
+Sai số bỏ cuộc
+* Sai số điều tra
+
+Câu 18.  Sai số chỉ gặp trong nghiên cứu thuần tập do nghiên cứu viên không theo dõi được những cá thể khó tìm kiếm hoặc do chính những người dự cuộc không còn muốn tham gia vào nghiên cứu là loại:
+Sai số nhớ lại
+* Sai số bỏ cuộc
+Sai số chẩn đoán
+Sai số điều tra
+
+Câu 19.  Sai số nảy sinh khi những thông tin từ những người dự cuộc bị khai thác một cách nhầm lẫn nên các cá thể đáng lẽ được xếp ở nhóm này lại sang nhóm khác là loại:
+* Sai số xếp lẫn thông tin
+Sai số bỏ cuộc
+Sai số chẩn đoán
+Sai số điều tra
+
+Câu 20.  Sai số nảy sinh trong những nghiên cứu về những yếu tố có liên quan đến đời tư của người dự cuộc, thường họ sẽ cân nhắc để trả lời sai cho điều tra viên là loại:
+* Sai số nói dối
+Sai số bỏ cuộc
+Sai số chẩn đoán
+Sai số điều tra
+
+Câu 21.  Nguyên nhân của sai số bỏ cuộc:
+* Sự bỏ cuộc của đối tượng nghiên cứu sau một thời gian dài hoặc ngắn đến khi xuất hiện hậu quả bệnh.
+Xảy ra trong nghiên cứu thuần tập kinh điển.
+Xảy ra trong nghiên cứu thuần tập hồi cứu
+Tất cả đều đúng
+
+Câu 22.  Nguyên nhân của sai số bỏ cuộc:
+Sự bỏ cuộc của đối tượng nghiên cứu sau một thời gian dài hoặc ngắn đến khi xuất hiện tình trạng phơi nhiễm.
+Xảy ra trong nghiên cứu thuần tập hồi cứu
+* Số người bỏ cuộc không theo dõi được lại có tình trạng khác với những người tham dự nghiên cứu về cả phơi nhiễm.
+Tất cả đều đúng
+
+Câu 23.  Nhiễu là tất cả các yếu tố:
+Làm sai lệch ảnh hưởng của bệnh và hậu quả của bệnh
+Không phải là một yếu tố nguy cơ của bệnh
+Liên quan với phơi nhiễm và phụ thuộc vào phơi nhiễm
+* Vừa có quan hệ với bệnh vừa có quan hệ với yếu tố nguy cơ trong mối quan hệ nhân quả mà ta khảo sát.
+
+Câu 24.  Là một yếu tố nguy cơ đối với bệnh, đồng thời có liên quan với phơi nhiễm nhưng không phụ thuộc vào phơi nhiễm: 
+* Sai số do nhiễu
+Sai số chẩn đoán
+Sai số điều tra
+Sai số bỏ cuộc
+
+Câu 25.  Kỹ thuật không áp dụng để phòng ngừa và loại trừ nhiễu ở giai đoạn thiết kế là:
+Ghép cặp
+Thu hẹp phạm vi nghiên cứu
+Chọn ngẫu nhiên
+* Chuẩn hóa các phương pháp và công cụ thu thập số liệu nghiên cứu
+
+Câu 26.  Ưu điểm của biện pháp ghép cặp khống chế nhiễu trong thiết kế nghiên cứu:
+Loại trừ được các yếu tố nhiễu
+Với một cỡ mẫu vừa đủ lớn thì kỹ thuật ngẫu nhiên có thể bảo đảm rằng tất cả các yếu tố nhiễu, bao gồm những yếu tố hiện đã biết, không biết hoặc không nghĩ đến được phân phối đều trong các nhóm nghiên cứu.
+Đơn giản, thuận tiện, dễ làm
+* Kiểm soát được nhiều yếu tố có liên quan đến gia đình như di truyền, kinh tế xã hội, dịch vụ y tế, môi trường, tầng lớp xã hội, dân tộc
+
+Câu 27.  Ưu điểm của biện pháp ghép cặp khống chế nhiễu trong thiết kế nghiên cứu:
+Loại trừ được các yếu tố nhiễu
+* Có ích khi số trường hợp bệnh nhỏ.
+Đơn giản, thuận tiện, dễ làm
+Chi phí thấp
+
+Câu 28.  Nhược điểm của biện pháp ghép cặp khống chế nhiễu trong thiết kế nghiên cứu, ngoại trừ:
+Tốn kém về kinh phí, thời gian, kỹ thuật khó.
+Khó đạt được cỡ mẫu cần thiết.
+Không có khả năng đánh giá được hậu quả của một yếu tố được ghép cặp
+* Tồn tại yếu tố nhiễu nếu tiêu chuẩn giới hạn chưa đủ hẹp
+
+Câu 29.  Ưu điểm của biện pháp thu hẹp phạm vi nghiên cứu trong thiết kế nghiên cứu:
+* Đơn giản, thuận tiện, dễ làm, ít tốn kém để kiểm soát nhiễu tiềm ẩn.
+Với một cỡ mẫu vừa đủ lớn thì có thể bảo đảm rằng tất cả các yếu tố nhiễu, bao gồm những yếu tố hiện đã biết, không biết hoặc không nghĩ đến được phân phối đều trong các nhóm nghiên cứu.
+Được sử dụng rộng rãi
+Tất cả đều đúng
+
+Câu 30.  Hạn chế của biện pháp thu hẹp phạm vi nghiên cứu trong thiết kế nghiên cứu, ngoại trừ:
+Khó đạt cỡ mẫu cần thiết
+Tồn tại yếu tố nhiễu nếu tiêu chuẩn giới hạn chưa đủ hẹp
+Không cho phép đánh giá sự kết hợp giữa phơi nhiễm và bệnh ở các mức độ khác nhau.
+* Tốn kém về chi phí và thời gian
+
+Câu 31.  Đặc điểm của yếu tố nhiễu trong nghiên thiết kế nghiên cứu:
+Các yếu tố nhiễu tiềm ẩn cần phải được coi là có liên quan với bệnh nhưng độc lập với phơi nhiễm.
+Là một biến số có kết hợp với phơi nhiễm và độc lập với phơi nhiễm.
+Là yếu tố nguy cơ của bệnh
+* Tất cả đều đúng 
+
+Câu 32.  Kết hợp sai do may rủi hoặc do một vài sai sót hệ thống trong phương pháp nghiên cứu là:
+Kết hợp không phải là căn nguyên
+Kết hợp căn nguyên
+Kết hợp giả tạo và kết hợp không căn nguyên,
+* Kết hợp giả tạo
+
+Câu 33.  Sai số thường gặp trong quá trình thu thập thông tin là:
+Cả ba loại trên
+*Sai số hệ thống
+Sai số ngẫu nhiên
+Sai số do nhiễu
+
+Câu 34.  Sai số có thể gặp trong thu thập thông tin là:
+Sai lầm của người cung cấp thông tin
+Do sai lầm của người thu thập thông tin
+Do công cụ thu thập thông tin thiếu chính xác
+*Gặp cả ba loại trên
+
+Câu 35.  Biện pháp quan trọng nhất để loại trừ các sai số hệ thống là:
+Chọn mẫu ngẫu nhiên, xác định cỡ mẫu dù lớn
+*Thiết kế nghiêm ngặt và tuân thủ triệt để quy trình nghiên cứu
+Phân tích tầng.
+Cả ba biện pháp trên
+
+Câu 36.  Biện pháp làm “mù đơn” là:
+*Chỉ có người trực tiếp điều trị và theo dõi và người xử lý và phân tích số liệu biết được tình trạng can thiệp.
+Chỉ có đối tượng nghiên cứu biết được tình trạng can thiệp.
+Chỉ có người xử lý và phân tích số liệu biết được tình trạng can thiệp.
+Chỉ có người trực tiếp điều trị và theo dõi biết được tình trạng can thiệp.
+
+Câu 37.  Biện pháp làm “mù kép" là:
+Chỉ có đối tượng nghiên cứu biết được tình trạng can thiệp.
+*Chỉ có người xử lý và phân tích số liệu biết được tình trạng cart thiệp
+Không ai trong ba đối tượng trên biết được tình trạng can thiệp
+Chỉ có người trực tiếp điều trị và theo dõi biết được tình trạng can thiệp
+
+Câu 38.  Biện pháp làm “mù ba” là:
+Chỉ có đối tượng nghiên cứu biết được tình trạng can thiệp.
+*Không ai trong ba đối tượng trên biết được tình trạng can thiệp.
+Chỉ có người trực tiếp điều trị và theo dõi biết được tình trạng
+Chỉ có người xử lý và phân tích số liệu biết được tình trạng can thiệp.
+
+Câu 39.  Để loại trừ yếu tố may rủi trong nghiên cứu can thiệp cần:
+Áp dụng biện pháp làm mũ
+*Xác định cỡ mẫu đủ lớn.
+Không loại trừ khỏi phân tích các đối tượng không đủ tiêu chuẩn hay không tuân thủ chế độ nghiên cứu sau khi được chọn ngẫu nhiên
+Chọn mẫu ngẫu nhiên
+
+Câu 40.  Để loại trừ sai số hệ thống trong nghiên cứu can thiệp cần:
+Chọn mẫu ngẫu nhiên
+*Cả ba biện pháp trên
+Không loại trừ khỏi phân tích các đối tượng không đủ tiêu chuẩn hay không tuân thủ chế độ nghiên cứu sau khi được chọn ngẫu nhiên
+Áp dụng biện pháp làm mù
+
+Câu 41.  Kết hợp gián tiếp, xảy ra trong trường hợp một yếu tố và bệnh có liên quan kết hợp với nhau chỉ vì cả yếu tố và bệnh đều liên quan đến một vài điều kiện nổi bật là
+*Kết hợp không phải là căn nguyên
+Kết hợp giả tạo
+Kết hợp căn nguyên
+Kết hợp giả tạo và kết hợp không căn nguyên.
+
+Câu 42.  Yếu tố không phải là điều kiện cần và đủ để một yếu tố A là nguyên nhân của B là:
+Sự tương quan này không những xảy ra chỉ ở chính A và B mà còn có thể có tương quan ở một vài điều kiện khác nữa
+*Ngược lại, sự thay đổi của B có liên quan đến sự thay đổi của A
+Sự thay đổi của A có liên quan đến sự thay đổi của 
+A xảy ra trước B
+
+Câu 43.  Bước đầu tiên cho một phiên giải nghiên cứu phân tích dịch tễ học là trả lời cho câu hỏi:
+Kết hợp thống kê có giá trị có thể đem luận giải nhận quả không?
+Kết hợp thống kê có đủ mạnh không?
+*Có một thống kê có giá trị không?
+Có một thống kê không?
+
+Câu 44.  Để xác định xem một thống kê có giá trị không cần phải cân nhắc các yếu tố trừ:
+*Độ lớn của kết hợp
+Kết hợp đó có phải do may rủi
+Kế hợp đó có phải do nhiễu
+Kết hợp đó có phải là do sai số hệ thống
+
+Câu 45.  Trong nghiên cứu dịch tễ học phân tích, tiêu chuẩn được dùng rộng rãi đánh giá mà kết hợp là một nguyên nhân:
+Độ mạnh của kết hợp: biểu hiện bằng tỷ suất các tỷ lệ bệnh ở nhóm có phơi nhiễm yếu tố nguy cơ làm giả thuyết với tỷ lệ bệnh ở nhóm không phơi nhiễm.
+Quan hệ đáp ứng: quan hệ nguyên nhân càng mạnh khi hiệu quả liều đáp ứng được chứng minh: đó là tăng phơi nhiễm với yếu tố nguy cơ thì thấy sự gia tăng tương ứng và bệnh
+Tính ổn định của kết hợp
+*Cả ba tiêu chuẩn trên
+
+Câu 46.  Trong nghiên cứu dịch tễ học phân tích, tiêu chuẩn được dùng rộng rãi đánh giá kết hợp là một nguyên nhân:
+Trình đặc hiệu của kết hợp
+Quan hệ thời gian đáp ứng
+Tinh tính cây sinh học
+*Cả ba tiêu chuẩn trên
