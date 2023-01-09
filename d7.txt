@@ -1,0 +1,317 @@
+﻿Câu 1. Nghiên cứu thuần tập là
+* Nghiên cứu quan sát
+Nghiên cứu thực nghiệm.
+Nghiên cứu cắt ngang
+Nghiên cứu ca bệnh.
+
+Câu 2.  Nguy cơ quy thuộc AR:
+*AR = Ie-Io = a/(a+b) – c/(c+d)
+AR = Ie-Io = b/(a+b) – d/(c+d) 
+AR = Ie-Io = a/(a+b) – d/(c+d)
+AR = Ie-Io = b/(a+b) – c/(c+d)
+
+Câu 3. 	Nghiên cứu thuần tập là
+Nghiên cứu mô tả.
+* Nghiên cứu phân tích
+Nghiên cứu thực nghiệm
+Nghiên cứu cắt ngang
+
+Câu 4. 	Trong nghiên cứu thuần tập. các đối tượng nghiên cứu được xác định dựa trên.
+Tình trạng bệnh
+* Tình trạng phơi nhiễm
+Tình trạng bệnh hoặc phơi nhiễm đều được
+Chọn ngẫu nhiên bất kỳ
+
+Câu 5.  Nguy cơ tương đối trong nghiên cứu thuần tập:
+RR = [b/(a+b)]/ [d/(c+d)]
+RR = [a/(a+c)]/ [c/(a+c)]
+*RR = [a/(a+b)]/ [c/(c+d)]
+RR = [a/(a+c)]/ [c/(b+d)]
+
+Câu 6.  Nguy cơ quy thuộc phần trăm AR%:
+AR% = Ie-Io = [a/(a+b) – c/(c+d)] x 100
+*AR% = [AR / Ie] x 100 = AR/[a/(a+b)]
+AR% = [AR / Ie] x 100 = AR/[b/(c+d)]
+AR% = [AR / Ie] x 100 = AR/[c/(a+b)]
+
+Câu 7. 	Nghiên cứu thuần tập là nghiên cứu mà:
+* Nhà nghiên cứu không chỉ định tình trạng phơi nhiễm của các đối tượng nghiên cứu, họ chỉ quan sát và ghi nhận lại
+Nhà nghiên cứu chỉ định tình trạng phơi nhiễm của các đối tượng nghiên cứu.
+Các đối tượng nghiên cứu được áp dụng một loại thuốc điều trị mới
+Các đối tượng nghiên cứu được can thiệp một phương pháp điều trị nào đó.
+
+Câu 8. 	Trong nghiên cứu thuần tập, các nhóm nghiên cứu được
+So sánh hiệu quả của phương pháp điều trị mới với phương pháp điều trị cũ
+Khai thác và so sánh tiền sử tiếp xúc với yếu tố nguy cơ.
+So sánh tỷ lệ hiện mắc giữa nhóm phơi nhiễm và không phơi nhiễm
+* Theo dõi sự phát triển bệnh trong một thời gian dài
+
+Câu 9.  Tỷ lệ mới mắc tích lũy ở nhóm phơi nhiễm trong nghiên cứu thuần tập:
+*CIe
+CIo
+CDo
+IDo
+
+Câu 10. 	Nghiên cứu thuần tập là nghiên cứu
+Cung cấp hình ảnh chụp nhanh về tình trạng sức khỏe cộng đồng và các yếu tố liên quan
+Chủ yếu hình thành giả thuyết
+* Kiểm định giả thuyết đã được đặt ra trước đó.
+Hình thành và kiểm định giả thuyết
+
+Câu 11. 	Nghiên cứu thuần tập mà tất cả các sự kiện cần nghiên cứu ( tình trạng phơi nhiễm và bệnh) đã xảy ra tại thời điểm bắt đầu nghiên cứu là:
+Nghiên cứu thuần tập tương lai
+* Nghiên cứu thuần tập hồi cứu
+Nghiên cứu thuần tập vừa hồi cứu, vừa tương lai
+Nghiên cứu thuần tập lồng nghiên cứu bệnh chứng
+
+Câu 12. 	Nghiên cứu thuần tập mà tại thời điểm bắt đầu nghiên cứu các cá thể nghiên cứu đã có phơi nhiễm với yếu tố nguy cơ nhưng chưa xuất hiện bệnh và được theo dõi một thời gian dài trong tương lai là:
+* Nghiên cứu thuần tập tương lai
+Nghiên cứu thuần tập hồi cứu
+Nghiên cứu thuần tập vừa hồi cứu, vừa tương lai
+Nghiên cứu thuần tập lồng nghiên cứu bệnh chứng
+
+Câu 13.  Tỷ lệ mới mắc tích lũy ở nhóm không phơi nhiễm trong nghiên cứu thuần tập:
+CIe
+*CIo
+PYe
+IDo
+
+Câu 14.  Nghiên cứu rất có ích đối với các phơi nhiễm vừa có ảnh hướng ngắn vừa có ảnh hưởng dài:
+Nghiên cứu thuần tập tương lai
+Nghiên cứu thuần tập hồi cứu
+* Nghiên cứu thuần tập vừa hồi cứu, vừa tương lai
+Nghiên cứu thuần tập lồng nghiên cứu bệnh chứng
+
+Câu 15.  Nguy cơ quy thuộc quần thể PAR:
+PAR = Ie-Io = [a/(a+b) – c/(c+d)]
+PAR = [AR / Ie] x 100 = AR/[a/(a+b)]
+*PAR = AR/[c/(a+b+c+d)]
+PAR = AR/[a/(a+b+c+d)]
+
+Câu 16.  Nguy cơ quy thuộc phần trăm quần thể PAR%:
+PAR% = Ie-Io = [a/(a+b) – c/(c+d)] x 100
+PAR% = [PAR / Ie] x 100 x 100
+PAR% = PAR-1/PAR x 100
+*PAR% = PAR/(a+b+c+d) x 100
+
+Câu 17.  Đặc điểm phạm vi áp dụng nghiên cứu thuần tập hồi cứu:
+* Nhanh, ít tốn kém, có lợi khi nghiên cứu các bệnh có thời gian ủ bệnh dài.
+Loại trừ được sai lệch chọn do ảnh hưởng các yếu tố nhiễm
+Cỡ mẫu lớn, theo dõi được toàn bộ
+Thu thập thông tin trực tiếp về yếu tố phơi nhiễm và yếu tố nhiễu
+
+Câu 18.  Đặc điểm phạm vi áp dụng nghiên cứu thuần tập hồi cứu:
+Loại trừ được sai lệch chọn do ảnh hưởng các yếu tố nhiễm
+Thu thập thông tin trực tiếp về yếu tố phơi nhiễm và yếu tố nhiễu
+* Thu thập thiếu thông tin, thông tin không so sánh được
+Thường có ít động cơ tham gia nghiên cứu
+
+Câu 19.  Đặc điểm phạm vi áp dụng nghiên cứu thuần tập hồi cứu:
+Thường có ít động cơ tham gia nghiên cứu
+Cỡ mẫu lớn, theo dõi được toàn bộ
+Danh sách quần thể tham gia nghiên cứu không phải lúc nào cũng có sẵn.
+* Một số thông tin gây nhiễu thường không ghi trong hồ sơ như chế độ ăn, thuốc lá,…
+
+Câu 20.  Đặc điểm phạm vi áp dụng nghiên cứu thuần tập tương lai:
+Một số thông tin gây nhiễu thường không ghi trong hồ sơ như chế độ ăn, thuốc lá,…
+Nhanh, ít tốn kém, có lợi khi nghiên cứu các bệnh có thời gian ủ bệnh dài.
+* Cỡ mẫu lớn, theo dõi được toàn bộ
+Thu thập thông tin gián tiếp về yếu tố phơi nhiễm và yếu tố nhiễu
+
+Câu 21.  Đặc điểm phạm vi áp dụng nghiên cứu thuần tập tương lai:
+Nhanh, ít tốn kém, có lợi khi nghiên cứu các bệnh có thời gian ủ bệnh dài.
+Loại trừ được sai lệch chọn do ảnh hưởng các yếu tố nhiễm
+Cỡ mẫu nhỏ, theo dõi được toàn bộ
+* Thu thập thông tin trực tiếp về yếu tố phơi nhiễm và yếu tố nhiễu
+
+Câu 22.  Nghiên cứu đánh giá xem liệu yếu tố vi dưỡng có trong máu có liên quan đến nguy cơ ung thư sau này hay không? Thu thập mẫu máu của các đối tượng nghiên cứu. Theo dõi quần thể 10-20 năm sau để so sánh tỷ lệ mắc ung thư ở những người có nồng độ các yếu tố vi dưỡng khác nhau trong máu. Đây là:
+* Nghiên cứu thuần tập kinh điển
+Nghiên cứu thuần tập hồi cứu
+Nghiên cứu thuần tập vừa hồi cứu, vừa tương lai
+Nghiên cứu thuần tập lồng nghiên cứu bệnh chứng
+
+Câu 23.  Nghiên cứu đánh giá xem liệu yếu tố vi dưỡng có trong máu có liên quan đến nguy cơ ung thư sau này hay không? Thu thập mẫu máu của các đối tượng nghiên cứu. Các mẫu máu được làm đông khô và bảo quản, các cá thể trong quần thể được theo dõi phát triển ung thư. Đây là:
+Nghiên cứu thuần tập kinh điển
+Nghiên cứu thuần tập hồi cứu
+Nghiên cứu thuần tập vừa hồi cứu, vừa tương lai
+* Nghiên cứu thuần tập lồng nghiên cứu bệnh chứng
+
+Câu 24.  Ưu điểm chọn quần thể có phơi nhiễm từ những nhóm đặc biệt:
+* Tích lũy đủ số người phơi nhiễm đủ lớn trong một thời gian dài
+Giảm nguy cơ sai lệch hồi tưởng
+Ít tốn kém về kinh tế
+Cho phép đánh giá các yếu tố phơi nhiễm hiếm
+
+Câu 25.  Ưu điểm chọn quần thể có phơi nhiễm từ những nhóm đặc biệt:
+Ít tốn kém về kinh tế
+Cho phép đánh giá các yếu tố phơi nhiễm hiếm
+Giảm nguy cơ sai lệch hồi tưởng
+* Cho phép đánh giá các bệnh hiếm, cung cấp bằng chứng đầu tiên về phơi nhiễm và bệnh
+
+Câu 26.  Ưu điểm chọn quần thể có phơi nhiễm từ những nhóm đặc biệt:
+Cho phép đánh giá các yếu tố phơi nhiễm hiếm
+Giảm nguy cơ sai lệch hồi tưởng
+* Giảm cỡ mẫu và có khả năng xác định phơi nhiễm một cách chính xác và cho phép theo dõi đối tượng phơi nhiễm
+Hạn chế sai lệch không đáp ứng
+
+Câu 27. 	Trong nghiên cứu thuần tập, nhóm phơi nhiễm có thể được lựa chọn từ
+Quần thể tổng quát
+Quần thể đặc biệt
+Từ bệnh viện và quần thể tổng quát
+* Quần thể tổng quát và quần thể đặc biệt
+
+Câu 28.  Đặc điểm lựa chọn quần thể có phơi nhiễm:
+* Phụ thuộc vào tần số phơi nhiễm. Nhu cầu đạt được các thông tin theo dõi về phơi nhiễm chính xác và đầy đủ từ các đối tượng nghiên cứu.
+Phụ thuộc vào giá thành kinh tế và khả năng thực hiện được
+Phụ thuộc vào yếu tố phơi nhiễm
+Tất cả đều đúng
+
+Câu 29.  Trong một nghiên cứu thuần tập về sử dụng nội tiết tố sau mãn kinh và bệnh mạch vành ở nữ y tá Mỹ. Sau khi theo dõi 54308,7 năm-người có dùng nội tiết tố thì có 30 người bị bệnh mạch vành, trong đó có 19 người có sử dụng nội tiết tố trước đây bị bệnh trong 24386,7 năm-người và 11 người hiện tại đang sử dụng nội tiết tố trong 29922 năm-người.Trong 51477,5 năm-người có 60 người không dùng nội tiết tố bị bệnh mạch vành. Nguy cơ tương đối tính được ở người hiện tại dùng nội tiết tố so với không dùng:
+RR = 0,47
+*RR = 0,3
+RR = 0,17
+RR = 1,89
+
+Câu 30. 	Trong nghiên cứu thuần tập, nhóm chủ cứu được lựa chọn là những người
+Những tiếp xúc với yếu tố nguy cơ
+* Có tiếp xúc với yếu tố nguy cơ
+Có bệnh mà ta nghiên cứu
+Không có bệnh mà ta nghiên cứu
+
+Câu 31. 	Trong nghiên cứu thuần tập, nhóm so sánh được lựa chọn là những người:
+* Không tiếp xúc với yếu tố nguy cơ
+Có tiếp xúc với yếu tố nguy cơ
+Có bệnh mà ta nghiên cứu
+Không có bệnh mà ta nghiên cứu
+
+Câu 32. 	Đối với các phơi nhiễm tương đối phổ biến như hút thuốc lá, uống cà phê thì ta có thể chọn nhóm chủ cứu từ.
+* Quần thể tổng quát
+Quần thể đặc biệt
+Từ bệnh viện và quần thể tổng quát
+Quần thể tổng quát và quần thể đặc biệt
+
+Câu 33. 	Với các phơi nhiễm hiếm như yếu tố phơi nhiễm nghề nghiệp thì ta có thể chọn đối tượng phơi nhiễm từ
+Quần thể tổng quát
+* Quần thể đặc biệt
+Từ bệnh viện và quần thể tổng quát
+Quần thể tổng quát và quần thể đặc biệt
+
+Câu 34. 	Nếu nghiên cứu thuần tập dựa trên một nhóm thuần tập tổng quát và các cá thể được chia thành các mức độ phơi nhiễm khác nhau, độ mạnh của kết hợp giữa phơi nhiễm và bệnh được xác lập theo mức độ phơi nhiễm thì người ta áp dụng nhóm so sánh đó là:
+Nhóm so sánh bên ngoài
+* Nhóm so sánh bên trong
+Nhóm so sánh đặc biệt
+Nhiều nhóm so sánh
+
+Câu 35. 	Khi nghiên cứu thuần tập có sử dụng nhóm có phơi nhiễm đặc biệt như nhóm nghề nghiệp, nhóm người sống trong một môi trường đặc biệt. người ta không thể xác định một nhóm so sánh mà hoàn toàn không có phơi nhiễm. khi đó người ta có thể áp dụng nhỏm so sánh như là quần thể tống quất ở vùng mà nhóm phơi nhiễm sống. đó là:
+* Nhóm so sánh bên ngoài
+Nhóm so sánh bên trong
+Nhóm so sánh đặc biệt
+Nhiều nhóm so sánh
+
+Câu 36. 	Yếu tố không phải là ưu điểm của nghiên cứu thuần tập:
+Rất có giá trị trong và tối ưu khi nghiên ảnh hưởng của các phơi nhiều hiếm gặp
+* Hiệu quả với nghiên cứu các bệnh hiếm gặp
+Có thể kiểm định ảnh hưởng nhiều mặt của một phơi nhiễm đến sự phát triển nhiều bệnh
+Có thể xác định khoảng thời gian phơi nhiễm và bệnh
+
+Câu 37. 	Yếu tố không phải là ưu điểm của nghiên cứu thuần tập.
+Có thể kiểm định ảnh hưởng nhiều mặt của một phơi nhiễm đến sự phát triển nhiều bệnh
+Hạn chế được sai số hệ thống với nghiên cứu thuần tập tương lai
+Tính toán trực tiếp tỷ lệ mới mắc ở hai nhóm
+* Ít tốn kém về kinh tế và thời gian.
+
+Câu 38. 	Yếu tố không phải là nhược điểm của nghiên cứu thuần tập.
+Tốn kém về kinh tế và thời gian đặc biệt với nghiên cứu thuần tập tương lai
+Không có hiệu quả với nghiên cứu các bệnh hiếm gặp
+* Không có hiệu quả khi nghiên ảnh hưởng của các phơi nhiễm hiếm gặp
+Giá trị của kết quả nghiên cứu bị ảnh hưởng nghiêm trọng do mất các đối tượng nghiên cứu
+
+Câu 39. 	Trong một nghiên cứu về ảnh hưởng của thuốc uống tránh thai và nhiễm khuẩn tiết niệu ở phụ nữ 16 - 49 tuổi, một nghiên cứu được tiến hành trên 2390 phụ nữ trong độ tuổi này. Tại thời điểm bắt đầu nghiên cứu có 482 phụ nữ có sử dụng thuốc tránh thai và 1908 phụ nữ không sử dụng thuốc tránh thai và chưa có ai mắc bệnh. Người ta tiến hành theo dõi các phụ nữ này trong một thời gian và thấy có 27 trong số 482 phụ nữ có sử dụng thuốc tránh thai và 77 trong số 1908 phụ nữ không sử dụng thuốc tránh thai bị nhiễm khuẩn tiết niệu. Đây là một ví dụ về: 
+* Nghiên cứu thuần tập
+Nghiên cứu mô tả
+Nghiên cứu bệnh chứng
+Nghiên cứu ngang
+
+Câu 40. 		Trong một nghiên cứu về ảnh hưởng của thuốc uống tránh thai và nhiễm khuẩn tiết niệu ở phụ nữ 16 - 49 tuổi, một nghiên cứu được tiến hành trên 2390 phụ nữ trong độ tuổi này. Tại thời điểm bắt đầu nghiên cứu có 482 phụ nữ có sử dụng thuốc tránh thai và 1908 phụ nữ không sử dụng thuốc tránh thai và chưa có ai mắc bệnh. Người ta tiến hành theo dõi các phụ nữ này trong một thời gian và thấy có 27 trong số 482 phụ nữ có sử dụng thuốc tránh thai và 77 trong số 1908 phụ nữ không sử dụng thuốc tránh thai bị nhiễm khuẩn tiết niệu. Từ kết quả trên ta có thể tính được: 
+* Nguy cơ tương đối (RR)
+Nguy cơ quy thuộc (AR)
+Tỷ suất chênh (OR)
+Tỷ lệ hiện mới mắc
+
+Câu 41.  Trong một nghiên cứu thuần tập về thuốc tránh thai và nhiễm khuẩn tiết niệu ở phụ nữ tuổi 16 – 49. Trong số 482 phụ nữ uống thuốc tránh thai có 27 người bị nhiễm khuẩn tiết niệu và 455 người không bị nhiễm khuẩn. Trong số 1908 phụ nữ không uống thuốc tránh thai có 77 người nhiễm khuẩn tiết niệu và 1831 người không bị nhiễm khuẩn. Từ đó, tính được nguy cơ tương đối:
+*RR = 1,4
+RR = 3,9
+RR = 11,3
+RR = 3,9
+
+Câu 42.  Trong một nghiên cứu thuần tập về sử dụng nội tiết tố sau mãn kinh và bệnh mạch vành ở nữ y tá Mỹ. Sau khi theo dõi 54 398,7 năm-người, 30 phụ nữ có nội tiết tố sau mãn kinh là bị bệnh mạch vành. Ở nhóm chứng chưa bao giờ dùng hormon, trong số 51477,5 năm-người theo dõi có 60 phụ nữ bị bệnh mạch vành. Nguy cơ tương đối được tính bằng:
+RR = 0,63
+*RR= 0,47
+RR = 0,94
+RR = 1,89
+
+Câu 43.  Giả sử nguy cơ tương đối tính được RR = 0,5, có thể kết luận:
+*Phụ nữ dùng nội tiết tố sau mãn kinh, nguy cơ phát triển bệnh mạch vành chỉ 0,5 so với phụ nữ không dùng nội tiết tố.
+Phụ nữ không nội tiết tố sau mãn kinh, nguy cơ phát triển bệnh mạch vành chỉ 0,5 so với phụ nữ dùng nội tiết tố.
+Tiền sử dùng nội tiết tố sau mãn kinh so với không dùng có nguy cơ tương đối là 0,5 trong bệnh mạch vành
+Tiền sử không nội tiết tố sau mãn kinh so với dùng thuốc có nguy cơ tương đối là 0,5
+
+Câu 44.  Nghiên cứu thuần tập mà thời gian theo dõi không thay đổi, nguy cơ tương đối RR được tính bằng:
+RR = (c/PYe) / (c/PYo)
+*RR = (a/PYe) / (c/PYo)
+RR = (a/PYe) / (a/PYo)
+RR = (c/PYe) / (a/PYo)
+
+Câu 45.  Trong một nghiên cứu thuần tập về sử dụng nội tiết tố sau mãn kinh và bệnh mạch vành ở nữ y tá Mỹ. Sau khi theo dõi 54308,7 năm-người có dùng nội tiết tố thì có 30 người bị bệnh mạch vành, trong đó có 19 người có sử dụng nội tiết tố trước đây bị bệnh trong 24386,7 năm-người và 11 người hiện tại đang sử dụng nội tiết tố trong 29922 năm-người.Trong 51477,5 năm-người có 60 người không dùng nội tiết tố bị bệnh mạch vành. Nguy cơ tương đối tính được ở người có dùng nội tiết tố so với không dùng:
+*RR = 0,47
+RR = 0,3
+RR = 0,17
+RR = 1,89
+
+Câu 46. 		Trong một nghiên cứu về ảnh hưởng của thuốc uống tránh thai và nhiễm khuẩn tiết niệu ở phụ nữ 16 - 49 tuổi, một nghiên cứu được tiến hành trên 2390 phụ nữ trong độ tuổi này. Tại thời điểm bắt đầu nghiên cứu có 482 phụ nữ có sử dụng thuốc tránh thai và 1908 phụ nữ không sử dụng thuốc tránh thai và chưa có ai mắc bệnh. Người ta tiến hành theo dõi các phụ nữ này trong một thời gian và thấy có 27 trong số 482 phụ nữ có sử dụng thuốc tránh thai và 77 trong số 1908 phụ nữ không sử dụng thuốc tránh thai bị nhiễm khuẩn tiết niệu. Nguy cơ quy thuộc được tính bằng:
+*AR = 1566/10^5
+AR = 1193/10^5
+AR = 1456/10^5
+AR = 1193/10^5
+
+Câu 47.  Giả sử nguy cơ quy thuộc AR tính được bằng 1566/10^5, có thể khẳng định:
+*Nguy cơ tăng cao nhiễm khuẩn tiết niệu ở những phụ nữ uống thuốc tránh thai là 1566 phần 100000
+Cứ 100000 người uống thuốc tránh thai thì có 98434 người bị nhiễm khuẩn tiết niệu.
+Tỷ lệ nhiễm khuẩn tiết niệu ở phụ nữ uống thuốc tránh thai là 0,01566
+Ở những phụ nữ uống thuốc tránh thai thì có nguy cơ nhiễm khuẩn tiết niệu là 0.98434 lần.
+
+Câu 48. 		Trong một nghiên cứu về ảnh hưởng của thuốc uống tránh thai và nhiễm khuẩn tiết niệu ở phụ nữ 16 - 49 tuổi, một nghiên cứu được tiến hành trên 2390 phụ nữ trong độ tuổi này. Tại thời điểm bắt đầu nghiên cứu có 482 phụ nữ có sử dụng thuốc tránh thai và 1908 phụ nữ không sử dụng thuốc tránh thai và chưa có ai mắc bệnh. Người ta tiến hành theo dõi các phụ nữ này trong một thời gian và thấy có 27 trong số 482 phụ nữ có sử dụng thuốc tránh thai và 77 trong số 1908 phụ nữ không sử dụng thuốc tránh thai bị nhiễm khuẩn tiết niệu. Nguy cơ quy thuộc phần trăm được tính bằng:
+*AR% = 27,96%
+AR% = 72,04%
+AR% = 9,8%
+AR% = 7,26%
+
+Câu 49.  Giả sử AR% = 27,96 trong nghiên cứu về nhiễm khuẩn tiết niệu ở phụ nữ uống thuốc tránh thai, có thể khẳng định:
+Nguy cơ tăng cao nhiễm khuẩn tiết niệu ở những phụ nữ uống thuốc tránh thai là 27,96%
+*Nếu uống thuốc tránh thai gây nhiễm khuẩn tiết niệu, khoảng 27,96% nhiễm khuẩn tiết niệu có thể quy cho là do uống thuốc tránh thai.
+Nếu uống thuốc tránh thai gây nhiễm khuẩn tiết niệu, khoảng 72,04% nhiễm khuẩn tiết niệu có thể quy cho là do uống thuốc tránh thai.
+Có thể hạn chế nhiễm khuẩn tiết niệu đến 27,96% nếu không uống thuốc tránh thai.
+
+Câu 50.  Giả sử tính được PAR = 316/10^5 trong nghiên cứu về nhiễm khuẩn tiết niệu ở phụ nữ uống thuốc tránh thai, có thể khẳng định:
+Nguy cơ tăng cao nhiễm khuẩn tiết niệu ở những phụ nữ uống thuốc tránh thai là 316/10^5.
+*Nếu ngừng uống thuốc tránh thai có thể loại trừ sự tăng tỉ lệ mới mắc hàng năm nhiễm khuẩn tiết niệu ở phụ nữ là 316 phần 100000
+Nếu uống thuốc tránh thai gây nhiễm khuẩn tiết niệu, khoảng 316 phần 100000 nhiễm khuẩn tiết niệu có thể quy cho là do uống thuốc tránh thai.
+Có thể hạn chế nhiễm khuẩn tiết niệu đến 316/10^5 nếu không uống thuốc tránh thai.
+
+Câu 51.  Giả sử tính được %PAR = 7,3% trong nghiên cứu về nhiễm khuẩn tiết niệu ở phụ nữ uống thuốc tránh thai, có thể khẳng định:
+Nguy cơ tăng cao nhiễm khuẩn tiết niệu ở những phụ nữ uống thuốc tránh thai là 7,3%
+*Nếu uống thuốc tránh thai gây nhiễm khuẩn tiết niệu, khoảng 7,3% các trường hợp nhiễm khuẩn tiết niệu trong quần thể nghiên cứu.
+Có thể hạn chế nhiễm khuẩn tiết niệu đến 7,3% nếu không uống thuốc tránh thai.
+Tất cả đều đúng
+
+Câu 52. 		Trong một nghiên cứu về ảnh hưởng của thuốc uống tránh thai và nhiễm khuẩn tiết niệu ở phụ nữ 16 - 49 tuổi, một nghiên cứu được tiến hành trên 2390 phụ nữ trong độ tuổi này. Tại thời điểm bắt đầu nghiên cứu có 482 phụ nữ có sử dụng thuốc tránh thai và 1908 phụ nữ không sử dụng thuốc tránh thai và chưa có ai mắc bệnh. Người ta tiến hành theo dõi các phụ nữ này trong một thời gian và thấy có 27 trong số 482 phụ nữ có sử dụng thuốc tránh thai và 77 trong số 1908 phụ nữ không sử dụng thuốc tránh thai bị nhiễm khuẩn tiết niệu. Nguy cơ quy thuộc quần thể phần trăm được tính bằng:
+*PAR% = 7,3%
+PAR% = 72,04%
+PAR% = 9,8%
+PAR% = 10,2%
+
+Câu 53.  Trong một nghiên cứu thuần tập về sử dụng nội tiết tố sau mãn kinh và bệnh mạch vành ở nữ y tá Mỹ. Sau khi theo dõi 54308,7 năm-người có dùng nội tiết tố thì có 30 người bị bệnh mạch vành, trong đó có 19 người có sử dụng nội tiết tố trước đây bị bệnh trong 24386,7 năm-người và 11 người hiện tại đang sử dụng nội tiết tố trong 29922 năm-người.Trong 51477,5 năm-người có 60 người không dùng nội tiết tố bị bệnh mạch vành. Nguy cơ tương đối tính được ở người có tiền sử dùng nội tiết tố so với không dùng:
+RR = 0,47
+*RR = 0,3
+RR = 0,17
+RR = 1,89
