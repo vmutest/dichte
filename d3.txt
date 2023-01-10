@@ -1,0 +1,185 @@
+﻿Câu 1.	Tiêu chuẩn nào sau đây không phải của một yếu tố căn nguyên gây nên bệnh nhiễm trùng (Theo định đề Koch)
+Chỉ thấy ở bệnh đó
+Không thấy ở bệnh khác
+Phân lập nuôi cấy thực nghiệm được
+* Căn nguyên đa yếu tố
+
+Câu 2. Tiêu chuẩn nào sau đây không phải của một yếu tố căn nguyên gây nên bệnh nhiễm trùng( Theo định đề Koch)
+* Không thấy căn nguyên rõ ràng
+Xuất hiện ở bệnh đó
+Không thấy ở bệnh khác 
+Phân lập nuôi cấy thực nghiệm được
+
+Câu 3.	Tiêu chuẩn nào sau đây không phải của một yếu tố căn nguyên gây nên bệnh không nhiễm trùng:
+Căn nguyên đa yếu tố
+Thời gian ủ bệnh kéo dài
+Thời điểm xác định xuất hiện bệnh khó biết
+* Phân lập, nuôi cấy thực hiện được 
+
+Câu 4.	A là nguyên nhân của B khi nếu và chỉ nếu:
+* A xảy ra trước B
+Sự thay đổi của B có tương quan đến sự thay đổi của A
+Sự tương quan chỉ xảy ra chính A và B
+A và B xuất hiện cùng một lúc trong điều kiện nhất định
+
+Câu 5.	Tiêu chuẩn “ độ mạnh của kết hợp” khi đánh giá một kết hợp là nguyên nhân có đặc điểm:
+Biểu hiện bằng tỷ suất các tỷ lệ bệnh ở nhóm có phơi nhiễm với yếu tố nguyên nhân giả thuyết,với tỷ lệ bệnh ở nhóm không phơi nhiễm
+Thực chất là tính toán trị số nguy cơ tương đối
+Tỷ suất này càng lớn thì yếu tố càng có tính nguyên nhân lớn,
+* Tất cả các ý trên,
+
+Câu 6.	Tiêu chuẩn “ quan hệ liều lượng đáp ứng” khi đánh giá một kết hợp là nguyên nhân có đặc điểm:
+Tính bền vững của kết hợp xảy ra với quần thể khác
+* Tăng mức phơi nhiễm với yếu tố nguy cơ thì có sự gia tăng tương ứng bệnh
+Xác định thời gian xuất hiện phơi nhiễm để xảy ra bệnh
+Yếu tố căn nguyên tốt nhất vừa là điều kiện cần và điều kiện đủ,
+
+Câu 7.	Nhận xét nào là không đúng khi đề cập về nguy cơ tương đối:
+Nguy cơ tương đối là một số đo về độ mạnh của một kết hợp nhân quả giữa một yếu tố nguy cơ và bệnh
+* Nguy cơ tương đối là một số đo về sức khỏe cộng đồng trước một yếu tố nguy cơ
+Nguy cơ tương đối cung cấp thông tin cần thiết cho những luận cứ nhân quả của sự kiện
+Nguy cơ tương đối thường được tính toán trong nghiên cứu dịch tễ học
+
+Câu 8.	Nhận xét nào là phù hợp khi đề cập về nguy cơ quy thuộc 
+Nguy cơ quy thuộc là một số đo về độ mạnh của một kết hợp nhân quả giữa một yếu tố nguy cơ và bệnh
+Nguy cơ quy thuộc cung cấp thông tin cần thiết cho những luận cứ nhân quả của sự kiện, Xem một kết hợp quan sát được có giá trị nhân quả không
+* Nguy cơ quy thuộc là một số đo về sức khỏe cộng đồng trước một	yếu tố nguy cơ nếu như kết hợp quan sát có giá trị nhân quả
+Nguy cơ quy thuộc thường được tính toán trong nghiên cứu dịch tễ học
+
+Câu 9.	Nguy cơ tương đối được sử dụng để đánh giá: 
+* Độ lớn của sự kết hợp chặt chẽ hay không giữa một yếu tố nguy cơ và bệnh,
+Tần suất xuất hiện trường hợp bệnh trong cộng đồng
+Kết quả đo lường được sau một nghiên cứu thuần tập
+Kết quả đo lường được sau một nghiên cứu bệnh chứng
+
+Câu 10.	Tỷ suất chênh được sử dụng để đánh giá
+Độ lớn của sự kết hợp chặt chẽ hay không giữa một yếu tố nguy cơ và bệnh,
+* Thể hiện tần suất phơi nhiễm với yếu tố nguy cơ
+Kết quả đo lường được sau một nghiên cứu bệnh chứng
+Kết quả đo lường được sau một nghiên cứu thuần tập
+
+Câu 11.	Yếu tố nào sau đây không phải là mục đích của đo lường sự kết hợp
+Xác định các nguyên nhân gây bệnh 
+Xác định mối liên hệ giữa phơi nhiễm và bệnh
+* Ngăn ngừa sự phát triển của bệnh nếu loại bỏ yếu tố nguy cơ
+Ước tính mức độ gây bệnh của một yếu tố nguy cơ
+
+Câu 12.	Đo lường tương đối bao gồm:
+* Nguy cơ tương đối RR và tỷ số chênh OR
+Nguy cơ tương đối RR và nguy cơ qui thuộc AR
+Nguy cơ tương đối RR và nguy cơ quy thuộc quần thể PAR
+Nguy cơ quy thuộc AR và nguy cơ quy thuộc quần thể PAR
+
+Câu 13.	Yếu tố nào sau đây là mục đích của đo lường sự kết hợp
+Xác định các yếu tố nguy cơ làm tăng quá trình phơi nhiễm
+* Xác định mối liên hệ giữa phơi nhiễm và bệnh
+Ngăn ngừa sự phát triển của bệnh nếu loại bỏ yếu tố nguy cơ,
+Ước tính mức độ bệnh tật của một bệnh
+
+Câu 14.	Thứ tự các bước phiên giải căn nguyên
+Áp dụng 9 tiêu chuẩn – kết hợp thống kê – sai số - kết hợp căn nguyên
+* Kết hợp thống kê- sai số- áp dụng 9 tiêu chuẩn-kết hợp căn nguyên
+Sai số - kết hợp thống kê- kết hợp căn nguyên- áp dụng 9 tiêu chuẩn
+Kết hợp căn nguyên- kết hợp thống kê- sai số- áp dụng 9 tiêu chuẩn
+
+Câu 15.	Có bao nhiêu tiêu chuẩn khi xác định căn nguyên:
+2
+3
+8
+* 9
+
+Câu 16.	Tiêu chuẩn “ quan hệ thời gian đáp ứng” khi đánh giá một kết hợp là nguyên nhân có đặc điểm
+Tắc mức phơi nhiễm với các yếu tố nguy cơ thì có sự gia tăng tương ứng bệnh
+Tính bền vững của kết hợp xảy ra với quần thể khác
+* Xác định thời gian xuất hiện phơi nhiễm để xảy ra bệnh
+Yếu tố căn nguyên tốt nhất vừa là điều kiện cần vừa là điều kiện đủ 
+
+Câu 17.	Tiêu chuẩn “ phù hợp với những kiến thức hiện đại hiện có” khi đánh giá một kết hợp là nguyên nhân là biểu hiện của:
+Tính ổn định
+* Tính tin cậy
+Tính đặc hiệu
+Tính nhạy
+
+Câu 18.	Ví dụ về angiosarcoma gan do vinyl chloride là ví dụ về tiêu chuẩn nào sau đây khi đánh giá một kết hợp là một nguyên nhân:
+Tính ổn định
+Tính tin cậy
+* Tính đặc hiệu
+Tính nhạy
+
+Câu 19.	Ví dụ về adenocarcinoma âm đạo do diethylstilbestrol (DES) là ví dụ về tiêu chuẩn nào sau đây khi đánh giá một kết hợp là một nguyên nhân
+Tính nhất quán
+Tính tin cậy
+* Tính đặc hiệu
+Tính hợp lý
+
+Câu 20.	Tiêu chuẩn “tính ổn định của kết hợp” khi đánh giá một kết hợp là nguyên nhân có đặc điểm:
+* Tính bền vững của kết hợp xảy ra với trường hợp khá quần thể khác và phương pháp nghiên cứu khác
+Tăng mức phơi nhiễm với yếu tố nguy cơ thì có sự gia tăng tương ứng bệnh
+Xác định thời gian xuất hiện phơi nhiễm để xảy ra bệnh
+Yếu tố căn nguyên tốt nhất vừa là điều kiện cần và điều kiện đủ
+
+Câu 21.	Phiên giải kết quả của một nghiên cứu dịch tễ học là không có kết hợp thống kê, Điều đó có thể kết luận là:
+* Không phải là yếu tố căn nguyên
+Kết hợp giả tạo
+Kết hợp không căn nguyên
+Kết hợp căn nguyên
+
+Câu 22.	Phiên giải kết quả của một nghiên cứu dịch tễ học là có sai số trong kết hợp thống kê, Điều đó có thể kết luận là:
+Kết hợp không căn nguyên
+Không phải là yếu tố căn nguyên
+* Kết hợp giả tạo
+Kết hợp căn nguyên 
+
+Câu 23.	Khi phiên giải kết quả của 1 nghiên cứu dịch tễ học có kết hợp thống kê và không có sai số nhưng không đáp ứng đủ các tiêu chuẩn để xác định một kết hợp là căn nguyên, Điều đó có thể kết luận là:
+* Kết hợp không căn nguyên
+Không phải là yếu tố căn nguyên
+Kết hợp giả tạo
+Kết hợp căn nguyên 
+
+Câu 24.	“ không phải yếu tố căn nguyên” là nhận định khi phiên giải kết quả của 1 nghiên cứu dịch tễ học có đặc điểm nào sau đây:
+* Không có kết hợp thống kê
+Có kết hợp thống kê nhưng có sai số
+Không hội đủ các tiêu chuẩn đánh giá mặc dù có kết hợp thống kê
+Hội đủ các tiêu chuẩn đánh giá,
+
+Câu 25.	“ kết hợp giả tạo” là nhận định khi phiên giải kết quả của một nghiên cứu dịch tễ học có đặc điểm nào sau đây
+Không có kết hợp thống kê
+* Có kết hợp thống kê nhưng có sai số
+Không hội đủ các tiêu chuẩn đánh giá mặc dù có kết hợp thống kê
+Hội đủ các tiêu chuẩn đánh giá
+
+Câu 26.	“ Kết hợp không căn nguyên”là nhận định khi phiên giải kết quả của một nghiên cứu dịch tễ học có đặc điểm nào sau đây 
+Không có kết hợp thống kê
+Có kết hợp thống kê nhưng có sai số
+* Có kết hợp thống kê và không tìm thấy sai số nhưng không có đầy đủ các tiêu chuẩn đánh giá
+Hội tụ đầy đủ các tiêu chuẩn đánh giá
+
+Câu 27.	“ Kết hợp căn nguyên” là nhận định khi phiên giải kết quả của một nghiên cứu dịch tễ học có đặc điểm nào sau đây
+Không có kết hợp thống kê
+Có kết hợp thống kê nhưng có sai số
+Có kết hợp thống kê và không tìm thấy sai số nhưng không có đầy đủ các tiêu chuẩn đánh giá
+* Có kết hợp thống kê, Không có sai số và đáp ứng đầy đủ các tiêu chuẩn đánh giá
+
+Câu 28.	Yếu tố nào sau đây là số đo về độ mạnh của một kết hợp nhân quả giữa một yếu tố nguy cơ và bệnh
+* Nguy cơ tương đối
+Nguy cơ tuyệt đối
+Nguy cơ quy thuộc
+Nguy cơ quy thuộc quần thể 
+
+Câu 29.	Một ví dụ cổ điển của R Doll và B Hill về mối quan hệ giữa nguy cơ tương đối và nguy cơ quy thuộc trong một thể thống nhất là nghiên cứu thuần tập xem sự kết hợp của hút thuốc lá với tỷ lệ chết do:
+* Bệnh mạch vành và bệnh ung thư phổi
+Bệnh mạch vành và đột quỵ não
+Bệnh ung thư phổi và đột quỵ não
+Bệnh ung thư phổi và ung thư vòm họng,
+
+Câu 30.	Số đo nào sau đây là số đo được cho là có ích lợi khi lập các kế hoạch chương trình y tế công cộng
+Nguy cơ tương đối RR
+Tỷ suất chênh OR
+* Nguy cơ quy thuộc AR
+Nguy cơ quy thuộc quần thể PAR
+
+Câu 31.	Một ví dụ cổ điển của R Doll và B Hill công bố năm 1950 kiểm định giả thuyết về vai trò của thuốc lá với K phổi được tiến hành trên cơ sở các sự kiện nào sau đây ngoại trừ: 
+Tỷ lệ chết vì K phổi gia tăng nhanh chóng
+Tỷ lệ hút thuốc ở nam giới tăng cao
+Xu thế bệnh K phổi tăng cao được nhiều nghiên cứu khác mô tả
+* Tỷ lệ hút thuốc ở nữ giới tăng cao
