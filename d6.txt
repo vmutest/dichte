@@ -1,0 +1,407 @@
+﻿Câu 1. Chọn câu trả lời đúng nhất: Nghiên cứu bệnh chứng là
+* Nghiên cứu phân tích quan sát
+Nghiên cứu thực nghiệm
+Nghiên cứu cắt ngang
+Nghiên cứu chùm bệnh.
+
+Câu 2.  Chọn câu trả lời đúng nhất: Nghiên cứu bệnh chứng là
+Nghiên cứu cắt ngang
+Nghiên cứu tương quan.
+Nghiên cứu tương lai
+* Nghiên cứu hồi cứu
+
+Câu 3.  Chọn câu trả lời đúng nhất: Trong nghiên cứu bệnh chứng, các đối tượng nghiên cứu được xác định dựa trên.
+* Tình trạng bệnh.
+Tình trạng phơi nhiễm.
+Tình trạng bệnh hoặc phơi nhiễm đều được
+Chọn ngẫu nhiên bất kỳ
+
+Câu 4.  Giả sử ta tính được OR=9,1, ta có thể kết luận là:
+Tỷ lệ ung thư phổi ở những người hút thuốc lá cao gấp 0,9 lần so với những người không hút thuốc lá
+Tỷ lệ những người hút thuốc lá bị ung thư phổi cao gấp 9,1 lần so với những người không hút thuốc lá
+*Tỷ lệ ung thư phổi ở những người hút thuốc lá cao gấp 9,1 lần so với những người không hút thuốc lá
+Khả năng ung thư phổi ở những người hút thuốc lá gấp 9,1 lần so với những người không hút thuốc lá
+
+Câu 5.  Chọn câu trả lời đúng nhất: Trong nghiên cứu bệnh chứng, các nhóm nghiên cứu
+Được áp dụng một loại thuốc điều trị mới
+* Được khai thác và so sánh tiền sử tiếp xúc với yếu tố nguy cơ.
+Được can thiệp một phương pháp điều trị nào đó
+Được theo dõi sự phát triển bệnh trong một thời gian dài
+
+Câu 6.  Chọn câu trả lời đúng nhất: Đặc điểm của nghiên cứu bệnh chứng là
+Tại thời điểm bắt đầu nghiên cứu tất cả các sự kiện cần nghiên cứu tình trạng phơi nhiễm và bệnh chưa xảy ra
+Tại thời điểm bắt đầu nghiên cứu các cá thể đã có tiếp xúc với yếu tố nguy cơ nhưng chưa phát triển bệnh.
+* Tại thời điểm bắt đầu nghiên cứu tất cả các sự kiện cần nghiên cứu tình trạng phơi nhiễm và bệnh đã xảy ra
+Cả ba ở trên đều đúng
+
+Câu 7.  Trong nghiên cứu bệnh chứng, nhóm bệnh được lựa chọn là những người
+Không tiếp xúc với yếu tố nguy cơ
+Có tiếp xúc với yếu tố nguy cơ
+* Có bệnh mà ta nghiên cứu
+Không có bệnh mà ta nghiên cứu
+
+Câu 8.  Chọn câu trả lời đúng nhất: Trong nghiên cứu bệnh chứng. Nhóm chứng được lựa chọn là những người: 
+Không tiếp xúc với yếu tố nguy cơ
+Có tiếp xúc với yếu tố nguy cơ
+Có bệnh mà ta nghiên cứu
+* Không có bệnh mà ta nghiên cứu
+
+Câu 9.  Chọn câu trả lời đúng nhất: Vấn đề quan trọng đầu tiên trong thiết kế nghiên cứu bệnh chứng là: 
+Lựa chọn quần thể có phơi nhiễm
+Lựa chọn nhóm so sánh bên ngoài (không phơi nhiễm)
+Lựa chọn nhóm so sánh đặc biệt (có phơi nhiễm đặc biệt)
+* Định nghĩa bệnh và lựa chọn nhóm bệnh
+
+Câu 10.  Chọn câu trả lời đúng nhất: Khi lựa chọn nhóm bệnh ta phải: 
+Định nghĩa bệnh hay hậu quả mà ta quan tâm
+Xác lập tiêu chuẩn chẩn đoán bệnh nghiêm ngặt
+Xác định rõ ràng nguồn lựa chọn nhóm bệnh
+* Phải tiến hành cả ba bước trên
+
+Câu 11.  Nhược điểm của ghép cặp trong lựa chọn nhóm chứng: 
+Khó có thể ghép cùng một lúc qua nhiều yếu tố phơi nhiễm
+* Ghép cặp về một yếu tố nào đó thì không thể nghiên cứu về yếu tố đó được nữa
+Ghép cặp chỉ có thể áp dụng theo từng cá thể.
+Tất cả đều đúng
+
+Câu 12.  Chọn câu trả lời đúng nhất: Các nguồn lựa chọn nhóm bệnh có thể là
+* Bệnh viện, quần thể
+Bệnh viện, quần thể và nhóm đặc biệt
+Bệnh viện và nhóm đặc biệt
+Quần thể và nhóm đặc biệt
+
+Câu 13.  Chọn câu trả lời đúng nhất: Ưu điểm của việc lựa chọn nhóm bệnh từ bệnh viện: 
+Tránh được sai số lựa chọn
+* Dễ thực hiện, không tốn kém
+Có tính đại diện cao
+Mô tả được bức tranh toàn diện của bệnh trong quần thế.
+
+Câu 14.  Chọn câu trả lời đúng nhất: Ưu điểm của việc lựa chọn nhóm bệnh từ quần thể: 
+* Tránh được sai số lựa chọn do bất kì lý do nào đưa bệnh nhân đến khám và điều trị ở bệnh viện.
+Dễ thực hiện, chi phí thấp.
+Nguồn nhóm bệnh đa dạng
+Mô tả được yếu tố phơi nhiễm của bệnh trong quần thế.
+
+Câu 15.  Chọn câu trả lời đúng nhất: Ưu điểm của việc lựa chọn nhóm bệnh từ quần thể: 
+* Tính toán trực tiếp được tỷ lệ mắc bệnh ở nhóm có phơi nhiễm và không phơi nhiễm
+Dễ thực hiện, chi phí thấp.
+Tránh được sai số phơi nhiễm
+Mô tả được yếu tố phơi nhiễm của bệnh trong quần thế.
+
+Câu 16.  Chọn câu trả lời đúng nhất: Nhược điểm của việc lựa chọn nhóm bệnh từ quần thể
+* Tốn kém, khó thực hiện
+Gặp phải sai số lựa chọn
+Kết quả không có tính đại diện cho quần thể
+Không tính trực tiếp được tỷ lệ bệnh ở nhóm phơi nhiễm và không phơi nhiễm
+
+Câu 17.  Ưu điểm của việc lựa chọn nhóm chứng từ bệnh viện
+Đại diện cho sự phân bố phơi nhiễm của quần thể mà từ đó nhóm bệnh được chọn ra
+Phơi nhiễm giống như những người bình thường trong quần thể
+* Bệnh nhân có thể nhận thức được và nhớ tốt hơn tiền sử phơi nhiễm trước đây của họ và do đó làm giảm nguy cơ sai lệch hồi tưởng.
+Tính toán trực tiếp được tỷ lệ phơi nhiễm của nhóm chứng.
+
+Câu 18.  Điều kiện để tỷ suất chênh ước lượng gần đúng nguy cơ tương đối:
+Nhóm bệnh đại diện cho tất cả những người không bị bệnh trong quần thể về yếu tố phơi nhiễm hiếm
+Nhóm chứng đại diện cho tất cả những người bị bệnh trong quần thể về tiền sử phơi nhiễm
+* Bệnh nghiên cứu là bệnh hiếm gặp
+Tất cả đều đúng
+
+Câu 19.  Chọn câu trả lời đúng nhất: Các nguồn lựa chọn nhóm chứng có thể là: 
+Bệnh viện, quần thể
+* Bệnh viện, quần thể và nhóm đặc biệt
+Bệnh viện và nhóm đặc biệt
+Quần thể và nhóm đặc biệt
+
+Câu 20.  Ưu điểm của việc lựa chọn nhóm chứng từ bệnh viện
+Đại diện cho sự phân bố phơi nhiễm của quần thể mà từ đó nhóm bệnh được chọn ra
+Phơi nhiễm giống như những người bình thường trong quần thể
+* Dễ thực hiện, tập hợp đủ số lượng cần có, ít tốn kém
+Có cả ba ưu điểm trên
+
+Câu 21.  Ưu điểm của việc lựa chọn nhóm chứng từ bệnh viện
+Đại diện cho sự phân bố phơi nhiễm của quần thể mà từ đó nhóm bệnh được chọn ra
+Phơi nhiễm giống như những người bình thường trong quần thể
+* Loại trừ được sai lệch chọn do ảnh hưởng của các yếu tố mà ta không biết rõ đến sự nhập viện của họ.
+Có cả ba ưu điểm trên
+
+Câu 22.  Điều kiện để tỷ suất chênh ước lượng gần đúng nguy cơ tương đối:
+* Nhóm bệnh đại diện cho tất cả các bệnh nhân trong quần thể về tiền sử phơi nhiễm
+Nhóm chứng đại diện cho tất cả những người bị bệnh trong quần thể về tiền sử phơi nhiễm
+Bệnh nghiên cứu là bệnh thường gặp
+Yếu tố phơi nhiễm hiếm
+
+Câu 23.  Ưu điểm của việc lựa chọn nhóm chứng từ bệnh viện
+Tình nguyện hợp tác tham gia nghiên cứu hơn so với người khỏe mạnh, hạn chế sai lệch không đáp ứng
+Dễ tập hợp đủ số lượng cần có, ít tốn kém
+Loại trừ được sai lệch chọn do ảnh hưởng của các yếu tố mà ta không biết rõ đến sự nhập viện của họ.
+* Có cả ba ưu điểm trên
+
+Câu 24.  Nhược điểm của lựa chọn nhóm chứng từ bệnh viện
+Khó tập hợp nên thường tốn kém
+* Không đại diện cho sự phân bố của quần thể mà từ đó nhóm bệnh được chọn ra
+Tăng nguy cơ gặp sai lệch hồi tưởng. Sai lệch lựa chọn và sai lệch không đáp ứng
+Ít hợp tác tham gia nghiên cứu hơn so với nghiên cứu từ quần thể
+
+Câu 25.  Nhược điểm của lựa chọn nhóm chứng từ bệnh viện
+Khó tập hợp nên thường tốn kém
+* Bệnh nhân mắc các bệnh được biết là có sự kết hợp hoặc âm tính, hoặc dương tính với phơi nhiễm mà ta nghiên cứu phải được loại trừ ra khỏi nhóm chứng.
+Tăng nguy cơ gặp sai lệch hồi tưởng. Sai lệch lựa chọn và sai lệch không đáp ứng
+Ít hợp tác tham gia nghiên cứu hơn so với nghiên cứu từ quần thể
+
+Câu 26.  Chọn câu trả lời đúng nhất: Ưu điểm của việc lựa chọn nhóm chúng từ quần thể
+Ít tốn kém về kinh phí và thời gian hơn nghiên cứu từ bệnh viện
+* Đảm bảo sự so sánh tốt nhất vì họ xuất phát từ cùng một dân số nguồn mà từ đó chọn nhóm bệnh
+Có động cơ hợp tác tham gia nghiên cứu hơn nghiên cứu từ bệnh viện
+Ít gặp sai số nhớ lại hơn nghiên cứu tử bệnh viện
+
+Câu 27.  Lựa chọn nhóm chứng từ quần thể tổng quát có thể được thực hiện bằng: 
+Điều tra các hộ gia đình hàng xóm với nhóm bệnh
+Sổ đăng ký hộ khẩu, danh sách bầu cử
+Quay số điện thoại ngẫu nhiên.
+* Tất cả đều đúng
+
+Câu 28.  Giả sử ta tính được nguy cơ quy thuộc AR% = 89%, ta có thể kết luận là:
+*Nếu hút thuốc lá gây ung thư phổi, 89% gây ung thư phổi là do hút thuốc lá và có thể giảm tỉ lệ ung thư phổi đi 89% nếu ngừng hút thuốc lá
+Tỷ lệ những người hút thuốc lá bị ung thư phổi cao gấp 8,9 lần so với những người không hút thuốc lá
+Tỷ lệ ung thư phổi ở những người hút thuốc lá cao gấp 1,1 lần so với những người không hút thuốc lá
+Nếu hút thuốc lá gây ung thư phổi, 11% gây ung thư phổi là do hút thuốc lá và có thể giảm tỉ lệ ung thư phổi đi 89% nếu ngừng hút thuốc lá
+
+Câu 29.  Chọn câu trả lời đúng nhất: Lý tưởng nhất là có
+* Một nhóm chứng thích hợp với nhóm bệnh
+Hai nhóm chứng thích hợp với nhóm bệnh
+Ba nhóm chứng thích hợp với nhóm bệnh
+Bốn nhóm chúng thích hợp với nhóm bệnh
+
+Câu 30.  Chọn câu trả lời đúng nhất: Giả sử trong một nghiên cứu về mối liên quan giữa hút thuốc lá và ung thư phổi ta tính được nguy cơ quy thuộc phần trăm (AR%) là 60%, ta có thể kết luận là
+60% những người hút thuốc lá sẽ bị ung thư phổi và có thể giảm tỷ lệ ung thư phổi nếu ngừng hút thuốc lá
+* 60% những người bị ung thư phổi là do hút thuốc lá và có thể giảm được tỷ lệ ung thư phổi nếu ngừng hút thuốc lá
+60% những người ung thư phổi không phải là do hút thuốc lá. Còn lại 40% những người bị ung thư phổi là do hút thuốc lá và có thể giảm được tỷ lệ ung thư phổi nếu ngừng hút thuốc la
+60% những người không ung thư phổi là do không hút thuốc lá.
+
+Câu 31.  Giả sử ta tính được nguy cơ quy thuộc AR% = 89%, ta có thể kết luận là:
+* 89% gây ung thư phổi là do hút thuốc lá
+Tỷ lệ những người hút thuốc lá bị ung thư phổi cao gấp 8,9 lần so với những người không hút thuốc lá
+Có thể giảm tỉ lệ ung thư phổi đi 11% nếu ngừng hút thuốc lá 
+11% gây ung thư phổi là do hút thuốc lá và có thể giảm tỉ lệ ung thư phổi đi 89% nếu ngừng hút thuốc lá
+
+Câu 32.  Chọn câu trả lời đúng nhất: Trong nghiên cứu bệnh - chứng. Loại sai lệch trong sự thu thập thông tin về tình trạng phơi nhiễm và bệnh là
+* Sai lệch quan sát
+Sai lệch lựa chọn
+Sai lệch hồi tưởng
+Sai lệch phân loại
+
+Câu 33.  Chọn câu trả lời đúng nhất: Trong nghiên cứu bệnh – chứng. Loại sai lệch trong việc phân loại sai tình trạng phơi nhiễm và bệnh là: 
+Sai lệch quan sát
+Sai lệch lựa chọn
+Sai lệch hồi tưởng
+* Sai lệch phân loại
+
+Câu 34.  Chọn câu trả lời đúng nhất: Trong nghiên cứu bệnh - chứng. Loại sai lệch về sự nhớ lại tần số phơi nhiễm ở hai nhóm bệnh và chứng
+Sai lệch quan sát
+Sai lệch lựa chọn
+* Sai lệch hồi tưởng
+Sai lệch phân loại
+
+Câu 35.  Chọn câu trả lời đúng nhất: Ưu điểm của nghiên cứu bệnh – chứng là
+Hiệu quả khi nghiên cứu các phơi nhiễm hiếm
+* Thực hiện tương đối nhanh, ít tốn kém so với các nghiên cứu phân tích khác
+Có thể tính toán trực tiếp tỷ lệ mắc bệnh ở nhóm phơi nhiễm và nhóm không phơi nhiễm
+Không gặp sai lệch lựa chọn
+
+Câu 36.  Chọn câu trả lời đúng nhất: Ưu điểm của nghiên cứu bệnh – chứng là
+Hiệu quả khi nghiên cứu các phơi nhiễm hiếm
+* Có thể tìm hiểu nhiều yếu tố phơi nhiễm hiếm.
+Có thể tính toán trực tiếp tỷ lệ mắc bệnh ở nhóm phơi nhiễm và nhóm không phơi nhiễm
+Không gặp sai lệch lựa chọn
+
+Câu 37.  Chọn câu trả lời đúng nhất: Ưu điểm của nghiên cứu bệnh - chứng là
+Hiệu quả khi nghiên cứu các phơi nhiễm hiểm
+Không gặp sai lệch hồi tưởng
+Có thể tính toán trực tiếp tỷ lệ mắc bệnh ở nhôm phơi nhiễm và nhóm không phơi nhiễm
+* Đặc biệt thích hợp cho nghiên cứu những bệnh có thời kỳ ủ bệnh dài, tối ưu khi nghiên cứu các bệnh hiếm
+
+Câu 38.  Chọn câu trả lời đúng nhất: Nhược điểm của nghiên cứu bệnh - chứng là: 
+* Nhạy cảm với các sai lệch đặc biệt sai lệch chọn và sai lệch hồi tưởng
+Thực hiện lâu. Tốn kém so với các nghiên cứu phân tích khác
+Không thích hợp cho nghiên cứu những bệnh có thời kỳ ủ bệnh dài và nghiên cứu các bệnh hiếm
+Không thể điều tra ảnh hưởng của nhiều yếu tố căn nguyên.
+
+Câu 39.  Chọn câu trả lời đúng nhất: Nhược điểm của nghiên cứu bệnh - chứng là: 
+Không tính được CI
+Không phù hợp với phơi nhiễm hiếm, chỉ tìm hiểu được một bệnh
+Nguy cơ sai số chọn, sai số nhớ lại
+* Tất cả đều đúng
+
+Câu 40.  Sai số trong việc thu thập thông tin về tình trạng phơi nhiễm và bệnh xảy ra khi: 
+Thông tin thu thập từ những đối tượng nghiên cứu sau khi mắc bệnh
+Kiến thức về tình trạng bệnh của người điều tra
+Báo cáo, ghi chép hay giải thích thông tin về bệnh không rõ ràng.
+* Tất cả đều đúng
+
+Câu 41.  Sai số lựa chọn trong nghiên cứu bệnh chứng:
+Xuất hiện khi tỷ lệ xác định các trường hợp bệnh không giống nhau giữa các nhóm bệnh và nhóm chứng.
+Chỉ xảy ra trong quá trình lựa chọn nhóm bệnh và nhóm chứng khi chưa có yếu tố phơi nhiễm
+* Là sự khác nhau về tình trạng bệnh và phơi nhiễm giữa những người tham gia nghiên cứu nhưng không tình nguyện tham gia hay không được chọn.
+Tất cả đều đúng
+
+Câu 42. 	Giả sử ta tính được OR=2,5, ta có thể kết luận là: 
+* Nguy cơ bị ung thư phổi ở những người hút thuốc lá cao gấp 2,5 lần so với những người không hút thuốc lá
+Có sự kết hợp âm tính giữa yếu tố hút thuốc lá và nguy cơ ung thử phổi
+Nguy cơ bị ung thư phổi ở những người hút thuốc lá thấp hơn 2,5 lần so với những người không hút thuốc lá
+Những người bị ung thư phổi là do hút thuốc lá và có thể giảm được tỷ lệ ung thư phổi đến 2,5 lần nếu ngừng hút thuốc lá.
+
+Câu 43. 	Giả sử trong một nghiên cứu về mối liên quan giữa hút thuốc lá và ung thư phổi ta tính được nguy cơ quy thuộc phần trăm (AR%) là 60%, ta có thể kết luận là: 
+* 60% những người bị ung thư phổi là do hút thuốc lá và có thể giảm được tỷ lệ ung thư phổi nếu ngừng hút thuốc lá
+Nguy cơ bị ung thư phổi ở những người hút thuốc lá chiến đến 60% so với những người không hút thuốc lá
+Giảm tỷ lệ ung thư phổi đến 60% đến ngừng hút thuốc lá ở người lớn tuổi.
+Tất cả đều đúng
+
+Câu 44. 	Trong nghiên cứu bệnh - chứng, loại sai số gặp phải khi những người đủ tiêu chuẩn tham gia nghiên cứu nhưng không tình nguyện tham gia hay không được chọn vào nghiên cứu là: 
+Sai lệch quan sát 
+Sai lệch phân loại
+Sai lệch hồi tưởng
+* Sai lệch lựa chọn
+
+Câu 45.  Nguy cơ quy thuộc trong nghiên cứu bệnh chứng: 
+* AR% = [(OR-1)/OR]x100
+AR% = [(OR-1)/OR]
+AR% = [(OR/[(OR-1)]x100
+AR% = [(OR-1)/OR]x1000
+
+Câu 46.  Tỷ suất chênh trong nghiên cứu bệnh chứng có ghép cặp:
+OR = a/c
+*OR = b/c
+OR = a/d
+OR = b/d
+
+Câu 47.  Tỷ suất chênh OR trong nghiên cứu bệnh chứng:
+OR= Chênh của yếu tố phơi nhiễm trong nhóm bệnh / Chênh của yếu tố không phơi nhiễm trong nhóm chứng
+* OR= Chênh của phơi nhiễm trong nhóm bệnh / Chênh của phơi nhiễm trong nhóm chứng
+OR= Chênh của phơi nhiễm trong nhóm bệnh / Chênh của bệnh trong nhóm chứng
+OR= Chênh của phơi nhiễm trong nhóm chứng / Chênh của phơi nhiễm trong nhóm bệnh
+
+Câu 48.  Tỷ suất chênh OR trong nghiên cứu bệnh chứng:
+* OR = ad/bc
+OR = ab/cd
+OR = bc/ad
+OR = bc/ad
+
+Câu 49.  Trong nghiên cứu bệnh chứng, chỉ có thể tính được tỷ số chênh vì:
+* Không thể tính nguy cơ trực tiếp
+Không thể tính tỉ lệ hiện mắc
+Không thể tính tỷ lệ mới mắc
+Không thể tính nguy cơ phơi nhiễm
+
+Câu 50.  Điều kiện để tỷ suất chênh ước lượng gần đúng nguy cơ tương đối:
+Nhóm bệnh đại diện cho tất cả những người không bị bệnh trong quần thể về yếu tố phơi nhiễm hiếm
+* Nhóm chứng đại diện cho tất cả những người không bị bệnh trong quần thể về tiền sử phơi nhiễm
+Bệnh nghiên cứu là bệnh thường gặp
+Yếu tố phơi nhiễm hiếm
+
+Câu 51.  Cơ sở lý luận của nghiên cứu bệnh chứng: 
+* Giả sử các yếu tố khác ngoài yếu tố nguy cơ gây bệnh là như nhau giữa nhóm bệnh và nhóm chứng, thì tỷ lệ phơi nhiễm với các yếu tố nguy cơ của các trường hợp bệnh sẽ cao hơn các trường hợp chứng.
+Giả sử các yếu tố khác ngoài yếu tố phơi nhiễm là như nhau giữa nhóm bệnh và nhóm chứng, thì tỷ lệ phơi nhiễm với các yếu tố nguy cơ của các trường hợp bệnh sẽ cao hơn các trường hợp chứng.
+Giả sử các yếu tố khác ngoài yếu tố nguy cơ gây bệnh là như nhau giữa nhóm bệnh và nhóm chứng, thì tỷ lệ mắc bệnh với các yếu tố nguy cơ của các trường hợp bệnh sẽ cao hơn các trường hợp chứng.
+Giả sử các yếu tố khác ngoài yếu tố phơi nhiễm là như nhau giữa nhóm bệnh và nhóm chứng, thì tỷ lệ phơi nhiễm với các yếu tố nguy cơ của các trường hợp chứng sẽ cao hơn các trường hợp bệnh.
+
+Câu 52.  Nhược điểm của ghép cặp trong lựa chọn nhóm chứng: 
+* Khó có thể ghép cùng một lúc qua nhiều yếu tố nhiễu
+Ghép cặp về một yếu tố nào đó thì bắt buộc nghiên cứu về yếu tố đó.
+Nhóm chứng và nhóm bệnh không tương đồng về đặc trưng phơi nhiễm
+Tất cả đều đúng
+
+Câu 53.  Cỡ mẫu lựa chọn ở nhóm bệnh nhỏ:
+* Tỷ lệ chứng/bệnh là 4/1
+Tỷ lệ bệnh/chứng không quá 4/1
+Tỷ số giữa các cá thể ở nhóm chứng và nhóm bệnh là 1/1
+Tất cả đều đúng
+
+Câu 54.  Nghiên cứu bệnh-chứng được áp dụng khi:
+Khi kết quả nghiên cứu nhằm suy ra tần số phơi nhiễm hiểm của một yếu tố nguy cơ trong cộng đồng
+Khi nghiên cứu cần xác định tỷ lệ mới mắc tích luỹ của một bệnh hiểm trong cộng đồng
+*Khi nghiên cứu xác định sự kết hợp yếu tố phơi nhiễm và bệnh hiếm gặp.
+Khi nghiên cứu cần xác định tỷ lệ hiện mắc một bệnh hiếm gặp trong cộng đồng
+
+Câu 55.  Nghiên cứu can thiệp có thể áp dụng khi:
+Khi nghiên cứu về một bệnh hiếm gặp có thể can thiệp được
+Khi nghiên cứu nhằm xác định tỷ lệ mới mắc của nhóm phơi nhiễm với yếu tố nguy
+Khi nghiên cứu nhằm xác định mối quan hệ nhân quả giữa yếu tố phơi nhiễm và bệnh trạng
+*Khi nghiên cứu nhằm can thiệp phòng ngừa bệnh xuất hiện trong cộng đồng.
+
+Câu 56.  Để nghiên cứu căn nguyên gây phù, tăng huyết áp, protein niệu, tiền sản giật và sản giật, một nhà nghiên cứu chọn 150 bà mẹ không bị hội chứng nêu trên trong thời kỳ có thai (dựa vào hồ sơ lưu trữ tại bệnh viện) và 150 bà mẹ có hội chứng nêu trên rồi khai thác tiền sử ăn uống những thức ăn giàu muối để đánh giá sự kết hợp giữa lượng muối ăn và tình trạng bệnh. Đây là một thí dụ về:
+Nghiên cứu ngang chùm bệnh
+*Nghiên cứu bệnh chứng
+Nghiên cứu thuần tập hồi cứu
+Nghiên cứu mô tả
+
+Câu 57.  Trong một nghiên cứu bệnh chứng người ta tính được nguy cơ qui thuộc phần trăm (AR%) của một yếu tố nguy cơ với bệnh là 30%. Điều đó có nghĩa là:
+*30% số người mắc bệnh là do yếu tố nguy cơ gây ra.
+Chênh lệch về số người phơi nhiễm bị bệnh lớn hơn số người không phơi nhiễm bệnh là 30%
+Có 30% số người phơi nhiễm với yếu tố nguy cơ không bị mắc bệnh
+Có 30% số người phơi nhiễm với yếu tố nguy cơ bị bệnh
+
+Câu 58.  Trong một nghiên cứu vào năm 1974, Creech và John mô tả bệnh ung thư mạch gan ở (3 công nhân tiếp xúc vinyl chlorid. Số trường hợp ung thư này trong một quần thể nhỏ trong một khoảng thời gian nghiên cứu là bất thường. Và dẫn đến giả thiết là tiếp xúc nghề nghiệp với vinyl chlorid gây ung thư mạch gan. Đây là một thí dụ về thiết kế nghiên cứu
+Nghiên cứu tương quan
+Nghiên cứu phân tích so sánh
+Nghiên cứu ngang
+*Nghiên cứu chùm bệnh.
+
+Câu 59.  Giả sử ta tính được OR=2,5, ta có thể kết luận là:
+Tỷ lệ những người không hút thuốc lá trong nhóm không ung thư phổi cao gấp 2,5 lần so với nhóm ung thư phổi
+Những người hút thuốc lá trong số những người bị ung thư phổi cao gấp 2,5 lần so với không ung thư phổi
+*Nguy cơ bị ung thư phổi ở những người hút thuốc lá cao gấp 2,5 lần so với những người không hút thuốc lá
+Khả năng không ung thư phổi ở những người hút thuốc lá kém 2,5 lần so với những người không hút thuốc lá
+
+Câu 60.  Giả sử trong một nghiên cứu về mối liên quan giữa lút thuốc và ung thư phổi ta tỉnh, được nguy cơ quy thuộc phần trăm (AR%) là 60%, ta có thể kết luận là:
+60% những người ung thư phổi không phải là do hút thuốc lá, còn lại 40% bị ung thư phổi là do hút thuốc lá và có thể giảm được tỷ lệ ung thư phổi nếu ngưng hút thuốc lá
+60% những người không ung thư phổi là do không hút thuốc lá.
+*60% những người bị ung thư phổi là do hút thuốc lá và có thể giảm được tỷ lệ ung thư ngừng hút thuốc lá.
+60% những người hút thuốc là sẽ bị ung thư phổi và có thể giảm tỷ lệ ung ta phải nếu ngừng hút thuốc lá
+
+Câu 61.  Nghiên cứu can thiệp là thiết kế:
+Nghiên cứu quan sát
+*Nghiên cứu thực nghiệm.
+Nghiên cứu cắt ngang
+Nghiên cứu hồi cứu
+
+Câu 62.  Nghiên cứu can thiệp là thiết kế:
+Nghiên cứu tương lai
+Nghiên cứu hồi cứu
+*Nghiên cứu cắt ngang.
+Nghiên cứu quan sát
+
+Câu 63.  Trong nghiên cứu can thiệp, các đối tượng nghiên cứu được xác định dựa trên
+Tình trạng bệnh
+Tình trạng phơi nhiễm
+Chọn ngẫu nhiên bất kỳ
+*Tình trạng bệnh hoặc phơi nhiễm đều được.
+
+Câu 64.  Thông thường, nghiên cứu can thiệp là nghiên cứu:
+Cả ba tình huống trên đều được.
+Tình trạng phơi nhiễm của các đối tượng nghiên cứu xảy ra tự nhiên, người nghiên cứu quan sát và ghi nhận lại.
+*Tình trạng phơi nhiễm của các đối tượng nghiên cứu do người nghiên cứu chỉ định
+Tình trạng phơi nhiễm của các đối tượng nghiên cứu do chính họ lựa chọn.
+
+Câu 65. 	Một nhà nghiên cứu quan tâm tới sự liên quan giữa hút thuốc lá và ung thư phổi. Để nghiên cứu vấn đề này ông chọn 150 người đã được chẩn đoán là ung thư phổi được điều trị tại một số bệnh viện trong khu vực và 150 người không bị ung thư phổi ở khu vực đó tại cùng thời điểm đó. Sau đó ông khai thác tiền sử hút thuốc lá của 150 người này và thu được kết quả là trong 150 người bị ung thư phổi thì có 130 người có hút thuốc lá, còn trong 150 người không bị ung thư phổi thì có 110 người hút thuốc lá. Đây là ví dụ về:
+* Nghiên cứu bệnh chứng
+Nghiên cứu thuần tập
+Nghiên cứu hồi cứu
+Nghiên cứu ngang
+
+Câu 66. 	Một nhà nghiên cứu quan tâm tới sự liên quan giữa hút thuốc lá và ung thư phổi. Để nghiên cứu vấn đề này ông chọn 150 người đã được chẩn đoán là ung thư phổi được điều trị tại một số bệnh viện trong khu vực và 150 người không bị ung thư phổi ở khu vực đó tại cùng thời điểm đó. Sau đó ông khai thác tiền sử hút thuốc lá của 150 người này và thu được kết quả là trong 150 người bị ung thư phổi thì có 130 người có hút thuốc lá, còn trong 150 người không bị ung thư phổi thì có 110 người hút thuốc lá. Từ kết quả trên ta không thể tính được: 
+*Nguy cơ tương đối (RR)
+Tỷ suất chênh (OR)
+Nguy cơ quy thuộc (AR)
+Nguy cơ quy thuộc quần thể (PAR)
+
+Câu 67.  Trong một nghiên cứu bệnh chứng về sự kết hợp giữa hút thuốc lá và ung thư phổi, trong số 2464 người hút thuốc lá có 1350 người bệnh ung thư phổi và 1296 người không mắc ung thư phổi, có 69 người không hút thuốc lá thì 7 người ung thư phổi và 61 người không mắc ung thư phổi. Từ nghiên cứu trên ta tính được tỉ suất chênh:
+*OR = 9,1
+OR = 1,04
+OR = 10,1
+OR = 22.1
+
+Câu 68.  Trong một nghiên cứu bệnh chứng về sự kết hợp giữa hút thuốc lá và ung thư phổi, trong số 2464 người hút thuốc lá có 1350 người bệnh ung thư phổi và 1296 người không mắc ung thư phổi, có 69 người không hút thuốc lá thì 7 người ung thư phổi và 61 người không mắc ung thư phổi. Nguy cơ quy thuộc tính được là:
+*89%
+11%
+98%
+91%
